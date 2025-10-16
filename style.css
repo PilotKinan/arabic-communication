@@ -229,6 +229,20 @@ body {
     text-align: right;
 }
 
+/* Style for the new speak icon */
+.speak-icon {
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 0.9em;
+    opacity: 0.6;
+    transition: opacity 0.2s ease;
+}
+
+.speak-icon:hover {
+    opacity: 1;
+}
+
+
 /* Scrollbar styling */
 ::-webkit-scrollbar {
     width: 8px;

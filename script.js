@@ -262,6 +262,24 @@ document.addEventListener('DOMContentLoaded', () => {
         searchInput.dispatchEvent(new Event('input'));
     });
 
+    // --- Text-to-Speech Feature ---
+    function speakText(text, lang) {
+        if ('speechSynthesis' in window) {
+            // Cancel any ongoing speech to prevent overlap
+            window.speechSynthesis.cancel();
+
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = lang; // e.g., 'ar-SA' for Saudi Arabic
+            utterance.rate = 0.9; // Slightly slower for clarity
+
+            window.speechSynthesis.speak(utterance);
+        } else {
+            alert("Sorry, your browser does not support text-to-speech.");
+        }
+    }
+
+    // --- End of Text-to-Speech Feature ---
+
     // 1. Load initial data
     loadInitialData();
 
@@ -319,7 +337,10 @@ document.addEventListener('DOMContentLoaded', () => {
             <tr>
                 <td>${term.english}</td>
                 <td>${term.pronunciation}</td>
-                <td class="arabic-term">${term.arabic}</td>
+                <td class="arabic-term">
+                    <span>${term.arabic}</span>
+                    <span class="speak-icon" title="Listen">&#128266;</span>
+                </td>
             </tr>
         `).join('');
 
@@ -366,7 +387,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 <tr>
                     <td>${term.english}</td>
                     <td>${term.pronunciation}</td>
-                    <td class="arabic-term">${term.arabic}</td>
+                    <td class="arabic-term">
+                        <span>${term.arabic}</span>
+                        <span class="speak-icon" title="Listen">&#128266;</span>
+                    </td>
                 </tr>
             `).join('');
 
@@ -382,6 +406,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `;
             contentArea.appendChild(card);
+        });
+
+        // Add event listener for all new speak icons
+        contentArea.querySelectorAll('.speak-icon').forEach(icon => {
+            icon.addEventListener('click', (e) => {
+                e.stopPropagation();
+                // Get the Arabic text from the sibling span
+                const textToSpeak = e.target.previousElementSibling.textContent;
+                speakText(textToSpeak, 'ar-SA'); // 'ar-SA' for Saudi Arabia Arabic
+            });
         });
     }
 
@@ -452,7 +486,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 <tr>
                     <td>${term.english}</td>
                     <td>${term.pronunciation}</td>
-                    <td class="arabic-term">${term.arabic}</td>
+                    <td class="arabic-term">
+                        <span>${term.arabic}</span>
+                        <span class="speak-icon" title="Listen">&#128266;</span>
+                    </td>
                 </tr>
             `).join('');
 
@@ -478,5 +515,15 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
         }
         contentArea.appendChild(card);
+
+        // Add event listener for all new speak icons in search results
+        contentArea.querySelectorAll('.speak-icon').forEach(icon => {
+            icon.addEventListener('click', (e) => {
+                e.stopPropagation();
+                // Get the Arabic text from the sibling span
+                const textToSpeak = e.target.previousElementSibling.textContent;
+                speakText(textToSpeak, 'ar-SA'); // 'ar-SA' for Saudi Arabia Arabic
+            });
+        });
     }
 });
