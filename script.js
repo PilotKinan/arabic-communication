@@ -327,18 +327,20 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="category-header">
                 <h3>${categoryData.category}</h3>
             </div>
-            <table class="terms-table">
-                <thead>
-                    <tr>
-                        <th>English</th>
-                        <th>Pronunciation</th>
-                        <th style="text-align: right;">Arabic</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    ${tableRows}
-                </tbody>
-            </table>
+            <div class="table-wrapper">
+                <table class="terms-table">
+                    <thead>
+                        <tr>
+                            <th>English</th>
+                            <th>Pronunciation</th>
+                            <th style="text-align: right;">Arabic</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${tableRows}
+                    </tbody>
+                </table>
+            </div>
         `;
         contentArea.appendChild(card);
     }
@@ -372,10 +374,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="category-header">
                     <h3>${categoryData.category}</h3>
                 </div>
-                <table class="terms-table">
-                    <thead><tr><th>English</th><th>Pronunciation</th><th style="text-align: right;">Arabic</th></tr></thead>
-                    <tbody>${tableRows}</tbody>
-                </table>
+                <div class="table-wrapper">
+                    <table class="terms-table">
+                        <thead><tr><th>English</th><th>Pronunciation</th><th style="text-align: right;">Arabic</th></tr></thead>
+                        <tbody>${tableRows}</tbody>
+                    </table>
+                </div>
             `;
             contentArea.appendChild(card);
         });
@@ -457,18 +461,20 @@ document.addEventListener('DOMContentLoaded', () => {
                     <h3>Search Results for "${searchTerm}"</h3>
                     <span class="record-count">${results.length} found</span>
                 </div>
-                <table class="terms-table">
-                    <thead>
-                        <tr>
-                            <th>English</th>
-                            <th>Pronunciation</th>
-                            <th style="text-align: right;">Arabic</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        ${tableRows}
-                    </tbody>
-                </table>
+                <div class="table-wrapper">
+                    <table class="terms-table">
+                        <thead>
+                            <tr>
+                                <th>English</th>
+                                <th>Pronunciation</th>
+                                <th style="text-align: right;">Arabic</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            ${tableRows}
+                        </tbody>
+                    </table>
+                </div>
             `;
         }
         contentArea.appendChild(card);

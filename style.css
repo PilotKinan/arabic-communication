@@ -265,4 +265,10 @@ body {
     .search-container {
         width: 100%;
     }
+
+    /* Make tables horizontally scrollable on mobile */
+    .table-wrapper {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+    }
 }
