@@ -262,6 +262,20 @@ document.addEventListener('DOMContentLoaded', () => {
         searchInput.dispatchEvent(new Event('input'));
     });
 
+    // --- Event Delegation for Dynamic Content ---
+    // Use a single event listener on the content area to handle clicks on speak icons.
+    // This is more efficient and works for any dynamically added content.
+    contentArea.addEventListener('click', (e) => {
+        // Check if a speak icon was clicked
+        if (e.target.classList.contains('speak-icon')) {
+            e.stopPropagation();
+            // Get the Arabic text from the sibling span
+            const textToSpeak = e.target.previousElementSibling.textContent;
+            speakText(textToSpeak, 'ar-SA'); // 'ar-SA' for Saudi Arabia Arabic
+        }
+    });
+    // --- End of Event Delegation ---
+
     // --- Text-to-Speech Feature ---
     let speechVoices = [];
 
@@ -271,8 +285,10 @@ document.addEventListener('DOMContentLoaded', () => {
         speechVoices = speechSynthesis.getVoices();
     }
 
-    populateVoiceList();
-    if (typeof speechSynthesis !== 'undefined' && speechSynthesis.onvoiceschanged !== undefined) {
+    // The 'voiceschanged' event is the reliable way to know when voices are ready.
+    if (typeof speechSynthesis !== 'undefined') {
+        // Pre-populate in case they are already loaded
+        populateVoiceList();
         speechSynthesis.onvoiceschanged = populateVoiceList;
     }
 
@@ -288,7 +304,7 @@ document.addEventListener('DOMContentLoaded', () => {
         utterance.lang = lang; // e.g., 'ar-SA'
         utterance.rate = 0.9; // Slightly slower for clarity
 
-        // Find the best available voice
+        // Find the best available voice, prioritizing Saudi Arabic.
         let saudiVoice = speechVoices.find(voice => voice.lang === 'ar-SA');
         let arabicVoice = speechVoices.find(voice => voice.lang.startsWith('ar-'));
 
@@ -431,16 +447,6 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
             contentArea.appendChild(card);
         });
-
-        // Add event listener for all new speak icons
-        contentArea.querySelectorAll('.speak-icon').forEach(icon => {
-            icon.addEventListener('click', (e) => {
-                e.stopPropagation();
-                // Get the Arabic text from the sibling span
-                const textToSpeak = e.target.previousElementSibling.textContent;
-                speakText(textToSpeak, 'ar-SA'); // 'ar-SA' for Saudi Arabia Arabic
-            });
-        });
     }
 
     // 4. Handle search functionality
@@ -540,14 +546,5 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         contentArea.appendChild(card);
 
-        // Add event listener for all new speak icons in search results
-        contentArea.querySelectorAll('.speak-icon').forEach(icon => {
-            icon.addEventListener('click', (e) => {
-                e.stopPropagation();
-                // Get the Arabic text from the sibling span
-                const textToSpeak = e.target.previousElementSibling.textContent;
-                speakText(textToSpeak, 'ar-SA'); // 'ar-SA' for Saudi Arabia Arabic
-            });
-        });
     }
 });
