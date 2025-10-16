@@ -311,16 +311,11 @@ document.addEventListener('DOMContentLoaded', () => {
         let specificVoice = speechVoices.find(voice => voice.lang === lang);
         let genericVoice = speechVoices.find(voice => voice.lang.startsWith(lang.split('-')[0]));
 
-        // For Arabic, prioritize Saudi dialect
-        if (lang === 'ar-SA') {
-            let saudiVoice = speechVoices.find(voice => voice.lang === 'ar-SA');
-            let arabicVoice = speechVoices.find(voice => voice.lang.startsWith('ar-'));
-            if (saudiVoice) utterance.voice = saudiVoice;
-            else if (arabicVoice) utterance.voice = arabicVoice;
-        } else if (specificVoice) {
-            utterance.voice = saudiVoice;
-        } else if (arabicVoice) {
-            utterance.voice = arabicVoice;
+        // Use the best voice found.
+        if (specificVoice) {
+            utterance.voice = specificVoice;
+        } else if (genericVoice) {
+            utterance.voice = genericVoice;
         }
         // If no specific Arabic voice is found, the browser will use the lang property as a fallback.
 
