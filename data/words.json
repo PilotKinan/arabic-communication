@@ -1,0 +1,3133 @@
+[
+  {
+    "category": "Greetings-Basics",
+    "terms": [
+      {
+        "english": "Do you understand?",
+        "pronunciation": "Fahim? (m) / Fahmah? (f)",
+        "arabic": "فاهم؟ (m) / فاهمة؟ (f)"
+      },
+      {
+        "english": "Do you want?",
+        "pronunciation": "Tibgha? (m) / Tibgheen? (f)",
+        "arabic": "تبغى؟ (m) / تبغين؟ (f)"
+      },
+      {
+        "english": "Don’t touch this.",
+        "pronunciation": "La tilmis hada.",
+        "arabic": "لا تلمس هذا."
+      },
+      {
+        "english": "I don’t feel well.",
+        "pronunciation": "Ta'ban. (m) / Ta'banah. (f)",
+        "arabic": "تعبان. (m) / تعبانة. (f)"
+      },
+      {
+        "english": "Is it better?",
+        "pronunciation": "Ahsan kida? / Ashwa?",
+        "arabic": "أحسن كذا؟ / أشوى؟"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Medical Questions-General",
+    "terms": [
+      {
+        "english": "Are you hungry?",
+        "pronunciation": "Inta joo'an? (m) / Inti joo'anah? (f)",
+        "arabic": "إنتَ جوعان؟ (m) / إنتِ جوعانة؟ (f)"
+      },
+      {
+        "english": "Are you thirsty?",
+        "pronunciation": "Inta 'atshan? (m) / Inti 'atshanah? (f)",
+        "arabic": "إنتَ عطشان؟ (m) / إنتِ عطشانة؟ (f)"
+      },
+      {
+        "english": "Have you had a bowel movement?",
+        "pronunciation": "Sar l-ak ikhraj?",
+        "arabic": "صار لك إخراج؟"
+      },
+      {
+        "english": "Have you passed gas?",
+        "pronunciation": "Talla't ghazat? (m) / Talla'ti ghazat? (f)",
+        "arabic": "طلعت غازات؟ (m) / طلعتِ غازات؟ (f)"
+      },
+      {
+        "english": "Have you passed urine?",
+        "pronunciation": "Bawwalt? (m) / Bawwalti? (f)",
+        "arabic": "بوّلت؟ (m) / بوّلتِ؟ (f)"
+      },
+      {
+        "english": "Are you pregnant?",
+        "pronunciation": "Inti hamil? (f)",
+        "arabic": "إنتِ حامل؟ (f)"
+      },
+      {
+        "english": "I want to check your temperature.",
+        "pronunciation": "Abgha agees harartak. (m) / harartik. (f)",
+        "arabic": "أبغى أقيس حرارتك. (m) / حرارتكِ. (f)"
+      },
+      {
+        "english": "I want to check your weight.",
+        "pronunciation": "Abgha ashoof waznak. (m) / waznik. (f)",
+        "arabic": "أبغى أشوف وزنك. (m) / وزنكِ. (f)"
+      },
+      {
+        "english": "What is your weight?",
+        "pronunciation": "Kam waznak? (m) / waznik? (f)",
+        "arabic": "كم وزنك؟ (m) / وزنكِ. (f)"
+      },
+      {
+        "english": "You have to drink lots of water.",
+        "pronunciation": "Lazim tishrab moya wayid.",
+        "arabic": "لازم تشرب مويه واجد."
+      },
+      {
+        "english": "This will clean your mouth.",
+        "pronunciation": "Hada yinadhif fammak. (m) / fammik. (f)",
+        "arabic": "هذا ينظف فمّك. (m) / فمّكِ. (f)"
+      },
+      {
+        "english": "This is the doctor's order.",
+        "pronunciation": "Hada amr min ad-doktor.",
+        "arabic": "هذا أمر من الدكتور."
+      },
+      {
+        "english": "This is your food.",
+        "pronunciation": "Hada aklak. (m) / aklik. (f)",
+        "arabic": "هذا أكلك. (m) / أكلكِ. (f)"
+      },
+      {
+        "english": "I want you to walk with me.",
+        "pronunciation": "Abeek timshi ma'ai. (m) / Abeeki timsheen ma'ai. (f)",
+        "arabic": "أبيك تمشي معاي. (m) / أبيكِ تمشين معاي. (f)"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Pain Assessment",
+    "terms": [
+      {
+        "english": "Do you have pain now?",
+        "pronunciation": "Fee alam alheen? / 'Indak alam?",
+        "arabic": "فيه ألم الحين؟ / عندك ألم؟"
+      },
+      {
+        "english": "Yes, I have severe pain.",
+        "pronunciation": "Aywah, fee alam gawi.",
+        "arabic": "أيوه، فيه ألم قوي."
+      },
+      {
+        "english": "Where is the pain location?",
+        "pronunciation": "Wayn makan al-alam?",
+        "arabic": "وين مكان الألم؟"
+      },
+      {
+        "english": "Both legs.",
+        "pronunciation": "Ar-rijlayn killaha.",
+        "arabic": "الرجلين كلها."
+      },
+      {
+        "english": "How frequent is the pain?",
+        "pronunciation": "Kill gedday ish yijeek al-alam?",
+        "arabic": "كل قد إيش يجيك الألم؟"
+      },
+      {
+        "english": "Everyday, especially morning.",
+        "pronunciation": "Kill yom, khususan as-subh.",
+        "arabic": "كل يوم، خصوصاً الصبح."
+      },
+      {
+        "english": "Does the pain wake you from sleep?",
+        "pronunciation": "Al-alam yesahheek min an-nom?",
+        "arabic": "الألم يصحّيك من النوم؟"
+      },
+      {
+        "english": "No, I didn't sleep well yesterday.",
+        "pronunciation": "La, ma nimt zayn ams.",
+        "arabic": "لا، ما نمت زين أمس."
+      },
+      {
+        "english": "How long does the pain last?",
+        "pronunciation": "Kam yojlis ma'ak al-alam?",
+        "arabic": "كم يجلس معاك الألم؟"
+      },
+      {
+        "english": "It lasts for 1 to 2 hours.",
+        "pronunciation": "Min sa'ah ila sa'atain.",
+        "arabic": "من ساعة إلى ساعتين."
+      },
+      {
+        "english": "From 0 (no pain) to 10 (worst pain), how much pain do you have?",
+        "pronunciation": "Min sifr (mafi alam) ila 'asharah (ashadd alam), kam al-alam?",
+        "arabic": "من صفر (مافي ألم) إلى عشرة (أشد ألم)، كم الألم؟"
+      },
+      {
+        "english": "My pain score is 8/10.",
+        "pronunciation": "Al-alam thamaniyah min 'asharah.",
+        "arabic": "الألم ثمانية من عشرة."
+      },
+      {
+        "english": "Do you want a painkiller now?",
+        "pronunciation": "Tibgha musakkin alheen?",
+        "arabic": "تبغى مسكّن الحين؟"
+      },
+      {
+        "english": "Yes, I want.",
+        "pronunciation": "Aywah, abgha.",
+        "arabic": "أيوه، أبغى."
+      },
+      {
+        "english": "After the painkiller, is it better?",
+        "pronunciation": "Ba'd al-musakkin, khaff al-alam?",
+        "arabic": "بعد المسكّن، خفّ الألم؟"
+      },
+      {
+        "english": "Do you feel better?",
+        "pronunciation": "Hassayt b-tahasson? / Sirt ahsan?",
+        "arabic": "حسيت بتحسن؟ / صرت أحسن؟"
+      },
+      {
+        "english": "Can you tolerate the pain?",
+        "pronunciation": "Tigdar tit-hammal al-alam?",
+        "arabic": "تقدر تتحمل الألم؟"
+      },
+      {
+        "english": "Yes.",
+        "pronunciation": "Aywah.",
+        "arabic": "أيوه."
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Physical Examination",
+    "terms": [
+      {
+        "english": "Can I examine you?",
+        "pronunciation": "Mumkin afhasak? (m) / afhasik? (f)",
+        "arabic": "ممكن أفحصك؟ (m) / أفحصكِ؟ (f)"
+      },
+      {
+        "english": "Please open / close your eye.",
+        "pronunciation": "Iftah 'aynak / Sakkir 'aynak.",
+        "arabic": "افتح عينك / سكّر عينك."
+      },
+      {
+        "english": "Please look left / right.",
+        "pronunciation": "Shuf yasar / Shuf yameen.",
+        "arabic": "شوف يسار / شوف يمين."
+      },
+      {
+        "english": "Turn your head right / left.",
+        "pronunciation": "Liff rasak yameen / yasar.",
+        "arabic": "لفّ راسك يمين / يسار."
+      },
+      {
+        "english": "Please lift your right / left hand / leg.",
+        "pronunciation": "Irfa' yadak al-yameen / al-yasar. / Irfa' rijlak...",
+        "arabic": "ارفع يدك اليمين / اليسار. / ارفع رجلك..."
+      },
+      {
+        "english": "Follow my finger with your eyes.",
+        "pronunciation": "Tabbi' isba'i b-'yoonak.",
+        "arabic": "تابِع إصبعي بعيونك."
+      },
+      {
+        "english": "I need to listen to your heart.",
+        "pronunciation": "Abgha asma' galbak. (m) / galbik. (f)",
+        "arabic": "أبغى أسمع قلبك. (m) / قلبكِ. (f)"
+      },
+      {
+        "english": "I will check your pulse.",
+        "pronunciation": "Bashoof an-nabd 'indak.",
+        "arabic": "بأشوف النبض عندك."
+      },
+      {
+        "english": "Do you have chest pain?",
+        "pronunciation": "Indak alam fi sadrak? (m) / sadrik? (f)",
+        "arabic": "عندك ألم في صدرك؟ (m) / صدركِ؟ (f)"
+      },
+      {
+        "english": "I need to check your blood pressure.",
+        "pronunciation": "Lazim agees daghtak. (m) / daghtik. (f)",
+        "arabic": "لازم أقيس ضغطك. (m) / ضغطكِ. (f)"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Medical History-Symptoms",
+    "terms": [
+      {
+        "english": "What is your hobby?",
+        "pronunciation": "Eish hiwaytak? (m) / hiwaytik? (f)",
+        "arabic": "إيش هوايتك؟ (m) / هوايتكِ؟ (f)"
+      },
+      {
+        "english": "Did you have surgery before?",
+        "pronunciation": "Sawwayt 'amaliyah min gabil?",
+        "arabic": "سويت عملية من قبل؟"
+      },
+      {
+        "english": "Do you have high blood pressure?",
+        "pronunciation": "Indak daght?",
+        "arabic": "عندك ضغط؟"
+      },
+      {
+        "english": "Any fractures?",
+        "pronunciation": "Fee ayy kusoor?",
+        "arabic": "فيه أي كسور؟"
+      },
+      {
+        "english": "Any joint pain?",
+        "pronunciation": "Fee alam fil-mafasil?",
+        "arabic": "فيه ألم في المفاصل؟"
+      },
+      {
+        "english": "Any muscle problems/pain?",
+        "pronunciation": "Fee waja' 'adalat?",
+        "arabic": "فيه وجع عضلات؟"
+      },
+      {
+        "english": "Dizziness",
+        "pronunciation": "Dokha",
+        "arabic": "دوخة"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Commands-Actions",
+    "terms": [
+      {
+        "english": "Move",
+        "pronunciation": "Taharrak",
+        "arabic": "تحرّك"
+      },
+      {
+        "english": "Stop",
+        "pronunciation": "Wagif",
+        "arabic": "وقّف"
+      },
+      {
+        "english": "Lift",
+        "pronunciation": "Irfa'",
+        "arabic": "ارفع"
+      },
+      {
+        "english": "Walk",
+        "pronunciation": "Imshi",
+        "arabic": "امشي"
+      },
+      {
+        "english": "Hold",
+        "pronunciation": "Amsik",
+        "arabic": "امسك"
+      },
+      {
+        "english": "Put",
+        "pronunciation": "Hutt",
+        "arabic": "حطّ"
+      },
+      {
+        "english": "Open",
+        "pronunciation": "Iftah",
+        "arabic": "افتح"
+      },
+      {
+        "english": "Close",
+        "pronunciation": "Sakkir / Gaffil",
+        "arabic": "سكّر / قفّل"
+      },
+      {
+        "english": "Slowly",
+        "pronunciation": "Shway shway / 'Ala mahlak",
+        "arabic": "شوي شوي / على مهلك"
+      },
+      {
+        "english": "Quickly",
+        "pronunciation": "Bi-sur'ah",
+        "arabic": "بسرعة"
+      },
+      {
+        "english": "Stand up",
+        "pronunciation": "Goom / Wagif",
+        "arabic": "قوم / وقّف"
+      },
+      {
+        "english": "Lie down",
+        "pronunciation": "Insidih",
+        "arabic": "انسدح"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Food-Drink",
+    "terms": [
+      {
+        "english": "Water",
+        "pronunciation": "Moya / Ma'",
+        "arabic": "مويه / ماء"
+      },
+      {
+        "english": "Tea",
+        "pronunciation": "Shahi",
+        "arabic": "شاهي"
+      },
+      {
+        "english": "Coffee",
+        "pronunciation": "Gahwa",
+        "arabic": "قهوة"
+      },
+      {
+        "english": "Juice",
+        "pronunciation": "Aseer",
+        "arabic": "عصير"
+      },
+      {
+        "english": "Milk",
+        "pronunciation": "Haleeb",
+        "arabic": "حليب"
+      },
+      {
+        "english": "Bread",
+        "pronunciation": "Khubz",
+        "arabic": "خبز"
+      },
+      {
+        "english": "Rice",
+        "pronunciation": "Ruz",
+        "arabic": "رز"
+      },
+      {
+        "english": "Yogurt",
+        "pronunciation": "Zabadi",
+        "arabic": "زبادي"
+      },
+      {
+        "english": "Buttermilk / Drinking Yogurt",
+        "pronunciation": "Laban",
+        "arabic": "لبن"
+      },
+      {
+        "english": "Fruit",
+        "pronunciation": "Fawakih",
+        "arabic": "فواكه"
+      },
+      {
+        "english": "Vegetables",
+        "pronunciation": "Khudar",
+        "arabic": "خضار"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Dietary Questions",
+    "terms": [
+      {
+        "english": "What time do you usually eat?",
+        "pronunciation": "Ay waqt takul 'adatan?",
+        "arabic": "أي وقت تاكل عادةً؟"
+      },
+      {
+        "english": "Did you eat lunch today?",
+        "pronunciation": "Tghaddayt al-yom?",
+        "arabic": "تغديت اليوم؟"
+      },
+      {
+        "english": "Do you always eat dinner?",
+        "pronunciation": "Dayman tit-'asha?",
+        "arabic": "دايم تتعشى؟"
+      },
+      {
+        "english": "Do you eat vegetables?",
+        "pronunciation": "Takul khudar?",
+        "arabic": "تاكل خضار؟"
+      },
+      {
+        "english": "Do you drink milk every day?",
+        "pronunciation": "Tishrab haleeb kill yom?",
+        "arabic": "تشرب حليب كل يوم؟"
+      },
+      {
+        "english": "Medication / Medicine",
+        "pronunciation": "Dawa'",
+        "arabic": "دَوَاء"
+      },
+      {
+        "english": "Tablets",
+        "pronunciation": "Hubub",
+        "arabic": "حُبُوب"
+      },
+      {
+        "english": "Admission",
+        "pronunciation": "Dukhul / Tanwim",
+        "arabic": "دُخُول / تَنْوِيم"
+      },
+      {
+        "english": "Discharge",
+        "pronunciation": "Khuruj",
+        "arabic": "خُرُوج"
+      },
+      {
+        "english": "Length of stay",
+        "pronunciation": "Muddat al-iqaamah",
+        "arabic": "مُدَّة الإِقَامَة"
+      },
+      {
+        "english": "Water",
+        "pronunciation": "Ma' / Moyah",
+        "arabic": "مَاء / مُويَه"
+      },
+      {
+        "english": "Tea",
+        "pronunciation": "Shay / Shahi",
+        "arabic": "شَاي / شَاهِي"
+      },
+      {
+        "english": "Coffee",
+        "pronunciation": "Qahwah",
+        "arabic": "قَهْوَة"
+      },
+      {
+        "english": "Juice",
+        "pronunciation": "Asir",
+        "arabic": "عَصِير"
+      },
+      {
+        "english": "Milk",
+        "pronunciation": "Halib",
+        "arabic": "حَلِيب"
+      },
+      {
+        "english": "Bread",
+        "pronunciation": "Khubz",
+        "arabic": "خُبْز"
+      },
+      {
+        "english": "Rice",
+        "pronunciation": "Ruz",
+        "arabic": "رُزّ"
+      },
+      {
+        "english": "Sugar",
+        "pronunciation": "Sukkar",
+        "arabic": "سُكَّر"
+      },
+      {
+        "english": "Salt",
+        "pronunciation": "Milh",
+        "arabic": "مِلْح"
+      },
+      {
+        "english": "Pepper",
+        "pronunciation": "Filfil",
+        "arabic": "فُلْفُل"
+      },
+      {
+        "english": "Fruit",
+        "pronunciation": "Fawakih",
+        "arabic": "فَوَاكِه"
+      },
+      {
+        "english": "Vegetables",
+        "pronunciation": "Khudar",
+        "arabic": "خُضَار"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Weather",
+    "terms": [
+      {
+        "english": "Hot",
+        "pronunciation": "Har",
+        "arabic": "حَار"
+      },
+      {
+        "english": "Cold",
+        "pronunciation": "Barid",
+        "arabic": "بَارِد"
+      },
+      {
+        "english": "Winter",
+        "pronunciation": "Shita'",
+        "arabic": "شِتَاء"
+      },
+      {
+        "english": "Summer",
+        "pronunciation": "Sayf",
+        "arabic": "صَيْف"
+      },
+      {
+        "english": "Rain",
+        "pronunciation": "Matar",
+        "arabic": "مَطَر"
+      },
+      {
+        "english": "Clouds",
+        "pronunciation": "Ghuyum",
+        "arabic": "غُيُوم"
+      },
+      {
+        "english": "Dust",
+        "pronunciation": "Ghubar",
+        "arabic": "غُبَار"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Medical Conditions-Treatments",
+    "terms": [
+      {
+        "english": "Accident",
+        "pronunciation": "Haadith",
+        "arabic": "حادث"
+      },
+      {
+        "english": "Ambulance",
+        "pronunciation": "Is'aaf",
+        "arabic": "اسعاف"
+      },
+      {
+        "english": "Antibiotic",
+        "pronunciation": "Mudhaad Hayawi",
+        "arabic": "مضاد حيوي"
+      },
+      {
+        "english": "Bleeding",
+        "pronunciation": "Nazeef",
+        "arabic": "نزيف"
+      },
+      {
+        "english": "Blood",
+        "pronunciation": "Damm",
+        "arabic": "دم"
+      },
+      {
+        "english": "Blood pressure",
+        "pronunciation": "Dhaght ad-damm",
+        "arabic": "ضغط الدم"
+      },
+      {
+        "english": "High blood pressure",
+        "pronunciation": "Dhaght damm 'aali",
+        "arabic": "ضغط دم عالي"
+      },
+      {
+        "english": "Low blood pressure",
+        "pronunciation": "Dhaght damm naazil / waati",
+        "arabic": "ضغط دم نازل / منخفض"
+      },
+      {
+        "english": "Normal blood pressure",
+        "pronunciation": "Dhaght damm tabee'i",
+        "arabic": "ضغط دم طبيعي"
+      },
+      {
+        "english": "Burn",
+        "pronunciation": "Harg (plural: Huroog)",
+        "arabic": "حرق (حروق)"
+      },
+      {
+        "english": "Chill / Coldness",
+        "pronunciation": "Buroodah",
+        "arabic": "برودة"
+      },
+      {
+        "english": "A cold",
+        "pronunciation": "Zukam / Bard",
+        "arabic": "زكام / برد"
+      },
+      {
+        "english": "Condition",
+        "pronunciation": "Haalah",
+        "arabic": "حالة"
+      },
+      {
+        "english": "Cramp",
+        "pronunciation": "Taqallus / Shad 'adhali",
+        "arabic": "تقلص / شد عضلي"
+      },
+      {
+        "english": "Constipation",
+        "pronunciation": "Imsaak",
+        "arabic": "إمساك"
+      },
+      {
+        "english": "A cut",
+        "pronunciation": "Jarh / Gate'",
+        "arabic": "جرح / قطع"
+      },
+      {
+        "english": "Department",
+        "pronunciation": "Gisim",
+        "arabic": "قسم"
+      },
+      {
+        "english": "Diarrhea",
+        "pronunciation": "Is-haal",
+        "arabic": "إسهال"
+      },
+      {
+        "english": "Disease",
+        "pronunciation": "Maradh",
+        "arabic": "مرض"
+      },
+      {
+        "english": "Disinfectant",
+        "pronunciation": "Mutahhir",
+        "arabic": "مطهر"
+      },
+      {
+        "english": "Dosage",
+        "pronunciation": "Jur'ah",
+        "arabic": "جرعة"
+      },
+      {
+        "english": "Drops",
+        "pronunciation": "Gatraat",
+        "arabic": "قطرات"
+      },
+      {
+        "english": "Emergency",
+        "pronunciation": "Tawaari'",
+        "arabic": "طوارئ"
+      },
+      {
+        "english": "Enema",
+        "pronunciation": "Hugnah sharajiyyah",
+        "arabic": "حقنة شرجية"
+      },
+      {
+        "english": "Examination",
+        "pronunciation": "Fahs",
+        "arabic": "فحص"
+      },
+      {
+        "english": "Examination room",
+        "pronunciation": "Ghurfat al-fahs",
+        "arabic": "غرفة الفحص"
+      },
+      {
+        "english": "Fever",
+        "pronunciation": "Haraarah / Sukhoonah",
+        "arabic": "حرارة / سخونة"
+      },
+      {
+        "english": "Prescription",
+        "pronunciation": "Wasfah tibbiyyah",
+        "arabic": "وصفة طبية"
+      },
+      {
+        "english": "Fracture",
+        "pronunciation": "Kasir",
+        "arabic": "كسر"
+      },
+      {
+        "english": "Headache",
+        "pronunciation": "Sudaa'",
+        "arabic": "صداع"
+      },
+      {
+        "english": "Infection",
+        "pronunciation": "Iltihaab",
+        "arabic": "التهاب"
+      },
+      {
+        "english": "IV Injection",
+        "pronunciation": "Ibra fil-wareed",
+        "arabic": "إبرة في الوريد"
+      },
+      {
+        "english": "Laxative",
+        "pronunciation": "Mulayyin",
+        "arabic": "ملين"
+      },
+      {
+        "english": "Medicine",
+        "pronunciation": "Dawaa / 'Ilaaj",
+        "arabic": "دواء / علاج"
+      },
+      {
+        "english": "Ointment",
+        "pronunciation": "Marham",
+        "arabic": "مرهم"
+      },
+      {
+        "english": "Operation",
+        "pronunciation": "Amaliyyah",
+        "arabic": "عملية"
+      },
+      {
+        "english": "Oxygen",
+        "pronunciation": "Uksujeen",
+        "arabic": "أكسجين"
+      },
+      {
+        "english": "Pain",
+        "pronunciation": "Alam / Waja'",
+        "arabic": "ألم / وجع"
+      },
+      {
+        "english": "Poison",
+        "pronunciation": "Samm (plural: Sumoom)",
+        "arabic": "سم (سموم)"
+      },
+      {
+        "english": "Powder",
+        "pronunciation": "Boodrah",
+        "arabic": "بودرة"
+      },
+      {
+        "english": "Scar",
+        "pronunciation": "Nadbah / Athar",
+        "arabic": "ندبة / أثر"
+      },
+      {
+        "english": "Respiration",
+        "pronunciation": "Tanaffus",
+        "arabic": "تنفس"
+      },
+      {
+        "english": "Secretion",
+        "pronunciation": "Ifraazaat",
+        "arabic": "إفرازات"
+      },
+      {
+        "english": "Shock",
+        "pronunciation": "Sadmah",
+        "arabic": "صدمة"
+      },
+      {
+        "english": "Specimen/sample",
+        "pronunciation": "Ayyinah",
+        "arabic": "عينة"
+      },
+      {
+        "english": "Stitches",
+        "pronunciation": "Ghuraz",
+        "arabic": "غرز"
+      },
+      {
+        "english": "Stomachache",
+        "pronunciation": "Waja' batn / Alam fil-ma'idah",
+        "arabic": "وجع بطن / ألم في المعدة"
+      },
+      {
+        "english": "Symptom",
+        "pronunciation": "Aradh (plural: A'raadh)",
+        "arabic": "عرض (أعراض)"
+      },
+      {
+        "english": "Treatment",
+        "pronunciation": "Ilaaj",
+        "arabic": "علاج"
+      },
+      {
+        "english": "Vaccine",
+        "pronunciation": "Tat'eem / Laqaah",
+        "arabic": "تطعيم / لقاح"
+      },
+      {
+        "english": "Vital signs",
+        "pronunciation": "Al-'Alaamaat al-Hayawiyyah",
+        "arabic": "العلامات الحيوية"
+      },
+      {
+        "english": "Wound",
+        "pronunciation": "Jurh",
+        "arabic": "جرح"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Anatomy",
+    "terms": [
+      {
+        "english": "Abdomen",
+        "pronunciation": "Batn",
+        "arabic": "بطن"
+      },
+      {
+        "english": "Ankle",
+        "pronunciation": "Kaahil",
+        "arabic": "كاحل"
+      },
+      {
+        "english": "Arm",
+        "pronunciation": "Dhiraa'",
+        "arabic": "ذراع"
+      },
+      {
+        "english": "Artery",
+        "pronunciation": "Shiryaan",
+        "arabic": "شريان"
+      },
+      {
+        "english": "Back",
+        "pronunciation": "Dhahr",
+        "arabic": "ظهر"
+      },
+      {
+        "english": "Bladder",
+        "pronunciation": "Mathaanah",
+        "arabic": "مثانة"
+      },
+      {
+        "english": "Brain",
+        "pronunciation": "Mokh",
+        "arabic": "مخ"
+      },
+      {
+        "english": "Body",
+        "pronunciation": "Jism",
+        "arabic": "جسم"
+      },
+      {
+        "english": "Bone",
+        "pronunciation": "Adhm",
+        "arabic": "عظم"
+      },
+      {
+        "english": "Bowels / Intestines",
+        "pronunciation": "Am'aa' / Masaareen",
+        "arabic": "أمعاء / مصارين"
+      },
+      {
+        "english": "Chest",
+        "pronunciation": "Sadr",
+        "arabic": "صدر"
+      },
+      {
+        "english": "Diaphragm",
+        "pronunciation": "Al-Hijaab al-Haajiz",
+        "arabic": "الحجاب الحاجز"
+      },
+      {
+        "english": "Ear",
+        "pronunciation": "Udhun",
+        "arabic": "أذن"
+      },
+      {
+        "english": "Elbow",
+        "pronunciation": "Koo'",
+        "arabic": "كوع"
+      },
+      {
+        "english": "Esophagus",
+        "pronunciation": "Al-Mari'",
+        "arabic": "المريء"
+      },
+      {
+        "english": "Eye",
+        "pronunciation": "Ain",
+        "arabic": "عين"
+      },
+      {
+        "english": "Face",
+        "pronunciation": "Wajh",
+        "arabic": "وجه"
+      },
+      {
+        "english": "Finger",
+        "pronunciation": "Isba'",
+        "arabic": "إصبع"
+      },
+      {
+        "english": "Foot / Leg",
+        "pronunciation": "Rijl / Saag",
+        "arabic": "رجل / ساق"
+      },
+      {
+        "english": "Gallbladder",
+        "pronunciation": "Maraarah",
+        "arabic": "مرارة"
+      },
+      {
+        "english": "Gland",
+        "pronunciation": "Ghuddah",
+        "arabic": "غدة"
+      },
+      {
+        "english": "Hair",
+        "pronunciation": "Sha'ar",
+        "arabic": "شعر"
+      },
+      {
+        "english": "Hand",
+        "pronunciation": "Yad",
+        "arabic": "يد"
+      },
+      {
+        "english": "Head",
+        "pronunciation": "Raas",
+        "arabic": "رأس"
+      },
+      {
+        "english": "Heart",
+        "pronunciation": "Galb",
+        "arabic": "قلب"
+      },
+      {
+        "english": "Heel",
+        "pronunciation": "Ka'b",
+        "arabic": "كعب"
+      },
+      {
+        "english": "Hip",
+        "pronunciation": "Wirk / Hawdh",
+        "arabic": "ورك / حوض"
+      },
+      {
+        "english": "Jaw",
+        "pronunciation": "Fakk",
+        "arabic": "فك"
+      },
+      {
+        "english": "Kidney",
+        "pronunciation": "Kilyah",
+        "arabic": "كلية"
+      },
+      {
+        "english": "Knee",
+        "pronunciation": "Rukbah",
+        "arabic": "ركبة"
+      },
+      {
+        "english": "Liver",
+        "pronunciation": "Kibd",
+        "arabic": "كبد"
+      },
+      {
+        "english": "Lung",
+        "pronunciation": "Ri'ah",
+        "arabic": "رئة"
+      },
+      {
+        "english": "Mouth",
+        "pronunciation": "Famm",
+        "arabic": "فم"
+      },
+      {
+        "english": "Muscle",
+        "pronunciation": "Adhalah",
+        "arabic": "عضلة"
+      },
+      {
+        "english": "Nail",
+        "pronunciation": "Dhufr (plural: Adhaafir)",
+        "arabic": "ظفر (أظافر)"
+      },
+      {
+        "english": "Neck",
+        "pronunciation": "Ragabah",
+        "arabic": "رقبة"
+      },
+      {
+        "english": "Nose",
+        "pronunciation": "Khashm / Anf",
+        "arabic": "خشم / أنف"
+      },
+      {
+        "english": "Organ",
+        "pronunciation": "Udhu",
+        "arabic": "عضو"
+      },
+      {
+        "english": "Palm",
+        "pronunciation": "Kaff al-yad",
+        "arabic": "كف اليد"
+      },
+      {
+        "english": "Rectum",
+        "pronunciation": "Mustaqeem / Sharaj",
+        "arabic": "مستقيم / شرج"
+      },
+      {
+        "english": "Rib",
+        "pronunciation": "Dhila'",
+        "arabic": "ضلع"
+      },
+      {
+        "english": "Rib cage",
+        "pronunciation": "Al-Qafas as-Sadri",
+        "arabic": "القفص الصدري"
+      },
+      {
+        "english": "Saliva / Spit",
+        "pronunciation": "Lu'aab / Reeq",
+        "arabic": "لعاب / ريق"
+      },
+      {
+        "english": "Shoulder",
+        "pronunciation": "Kitif",
+        "arabic": "كتف"
+      },
+      {
+        "english": "Skeleton",
+        "pronunciation": "Haykal 'Adhmi",
+        "arabic": "هيكل عظمي"
+      },
+      {
+        "english": "Skull",
+        "pronunciation": "Jumjumah",
+        "arabic": "جمجمة"
+      },
+      {
+        "english": "Spine",
+        "pronunciation": "Al-'Amood al-Faqari",
+        "arabic": "العمود الفقري"
+      },
+      {
+        "english": "Spleen",
+        "pronunciation": "Tuhaal",
+        "arabic": "طحال"
+      },
+      {
+        "english": "Stomach",
+        "pronunciation": "Ma'idah",
+        "arabic": "معدة"
+      },
+      {
+        "english": "Thigh",
+        "pronunciation": "Fakhdh",
+        "arabic": "فخذ"
+      },
+      {
+        "english": "Throat",
+        "pronunciation": "Halg",
+        "arabic": "حلق"
+      },
+      {
+        "english": "Toe",
+        "pronunciation": "Isba' ar-rijl",
+        "arabic": "إصبع الرجل"
+      },
+      {
+        "english": "Tongue",
+        "pronunciation": "Lisaan",
+        "arabic": "لسان"
+      },
+      {
+        "english": "Tooth",
+        "pronunciation": "Sinn (plural: Asnaan)",
+        "arabic": "سن (أسنان)"
+      },
+      {
+        "english": "Ureter",
+        "pronunciation": "Haalib",
+        "arabic": "حالب"
+      },
+      {
+        "english": "Uterus",
+        "pronunciation": "Rahim",
+        "arabic": "رحم"
+      },
+      {
+        "english": "Vagina",
+        "pronunciation": "Mihbal",
+        "arabic": "مهبل"
+      },
+      {
+        "english": "Vein",
+        "pronunciation": "Irq / Wareed",
+        "arabic": "عرق / وريد"
+      },
+      {
+        "english": "Cheek",
+        "pronunciation": "Khadd",
+        "arabic": "خد"
+      },
+      {
+        "english": "Belly",
+        "pronunciation": "Batn",
+        "arabic": "بطن"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Common Phrases-Admin",
+    "terms": [
+      {
+        "english": "What is your name?",
+        "pronunciation": "Eish ismak? (to a male) / Eish ismik? (to a female)",
+        "arabic": "ايش اسمك؟"
+      },
+      {
+        "english": "The full name",
+        "pronunciation": "Al-Ism al-kaamil",
+        "arabic": "الاسم الكامل"
+      },
+      {
+        "english": "Do you have an appointment?",
+        "pronunciation": "Indak maw'id? (m) / 'Indik maw'id? (f)",
+        "arabic": "عندك موعد؟"
+      },
+      {
+        "english": "What is your occupation?",
+        "pronunciation": "Eish tishtaghel? (m) / Eish tishtaghleen? (f)",
+        "arabic": "وش تشتغل؟ / وش تشتغلين؟"
+      },
+      {
+        "english": "Date of birth",
+        "pronunciation": "Taareekh al-meelaad",
+        "arabic": "تاريخ الميلاد"
+      },
+      {
+        "english": "Family head",
+        "pronunciation": "Rabb al-usra",
+        "arabic": "رب الأسرة"
+      },
+      {
+        "english": "Dependent / Companion",
+        "pronunciation": "Muraafiq",
+        "arabic": "مرافق"
+      },
+      {
+        "english": "Relative",
+        "pronunciation": "Gareeb",
+        "arabic": "قريب"
+      },
+      {
+        "english": "History / Date",
+        "pronunciation": "Taareekh",
+        "arabic": "تاريخ"
+      },
+      {
+        "english": "Case history",
+        "pronunciation": "Taareekh al-haalah",
+        "arabic": "تاريخ الحالة"
+      },
+      {
+        "english": "Data",
+        "pronunciation": "Bayaanaat",
+        "arabic": "بيانات"
+      },
+      {
+        "english": "Report",
+        "pronunciation": "Taqreer",
+        "arabic": "تقرير"
+      },
+      {
+        "english": "Form",
+        "pronunciation": "Namoodhaj",
+        "arabic": "نموذج"
+      },
+      {
+        "english": "Consent form",
+        "pronunciation": "Namoodhaj muwaafaqah",
+        "arabic": "نموذج موافقة"
+      },
+      {
+        "english": "Signature",
+        "pronunciation": "Tawqee'",
+        "arabic": "توقيع"
+      },
+      {
+        "english": "File",
+        "pronunciation": "Malaff",
+        "arabic": "ملف"
+      },
+      {
+        "english": "Message",
+        "pronunciation": "Risaalah",
+        "arabic": "رسالة"
+      },
+      {
+        "english": "Doctor's orders",
+        "pronunciation": "Awaamir ad-duktoor",
+        "arabic": "أوامر الدكتور"
+      },
+      {
+        "english": "Admission",
+        "pronunciation": "Dukhool / Tanweem",
+        "arabic": "دخول / تنويم"
+      },
+      {
+        "english": "Discharge",
+        "pronunciation": "Khurooj",
+        "arabic": "خروج"
+      },
+      {
+        "english": "Transport",
+        "pronunciation": "Naql",
+        "arabic": "نقل"
+      },
+      {
+        "english": "Transfer",
+        "pronunciation": "Tahweel",
+        "arabic": "تحويل"
+      },
+      {
+        "english": "Number",
+        "pronunciation": "Ragam",
+        "arabic": "رقم"
+      },
+      {
+        "english": "Lab investigation",
+        "pronunciation": "Tahaleel mukhtabar / Fuhusaat",
+        "arabic": "تحاليل مختبر / فحوصات"
+      },
+      {
+        "english": "Result",
+        "pronunciation": "Nateejah (plural: Nataa'ij)",
+        "arabic": "نتيجة (نتائج)"
+      },
+      {
+        "english": "Busy",
+        "pronunciation": "Mashghool",
+        "arabic": "مشغول"
+      },
+      {
+        "english": "Please wait outside",
+        "pronunciation": "Law samaht, intadhir barra",
+        "arabic": "لو سمحت، انتظر برا"
+      },
+      {
+        "english": "Please register outside",
+        "pronunciation": "Law samaht, sajjil barra",
+        "arabic": "لو سمحت، سجل برا"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Colors",
+    "terms": [
+      {
+        "english": "Black",
+        "pronunciation": "Aswad",
+        "arabic": "أسود"
+      },
+      {
+        "english": "Blue",
+        "pronunciation": "Azrag",
+        "arabic": "أزرق"
+      },
+      {
+        "english": "Green",
+        "pronunciation": "Akhdar",
+        "arabic": "أخضر"
+      },
+      {
+        "english": "Orange",
+        "pronunciation": "Burtuqali",
+        "arabic": "برتقالي"
+      },
+      {
+        "english": "Pink",
+        "pronunciation": "Wardi",
+        "arabic": "وردي"
+      },
+      {
+        "english": "Red",
+        "pronunciation": "Ahmar",
+        "arabic": "أحمر"
+      },
+      {
+        "english": "White",
+        "pronunciation": "Abyad",
+        "arabic": "أبيض"
+      },
+      {
+        "english": "Yellow",
+        "pronunciation": "Asfar",
+        "arabic": "أصفر"
+      },
+      {
+        "english": "Grey",
+        "pronunciation": "Ramadi",
+        "arabic": "رمادي"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Personal Hygiene",
+    "terms": [
+      {
+        "english": "Bath / Bathroom",
+        "pronunciation": "Hammam",
+        "arabic": "حمام"
+      },
+      {
+        "english": "Wash hair",
+        "pronunciation": "Ghas-l ish-sha'ar",
+        "arabic": "غسل الشعر"
+      },
+      {
+        "english": "Brush teeth",
+        "pronunciation": "Tafreesh al-asnan",
+        "arabic": "تفريش الأسنان"
+      },
+      {
+        "english": "Wash genitals",
+        "pronunciation": "Tan-theef al-mintaqa al-hassasa",
+        "arabic": "تنظيف المنطقة الحساسة"
+      },
+      {
+        "english": "Shave (Command)",
+        "pronunciation": "Ih-lag",
+        "arabic": "إحلق"
+      },
+      {
+        "english": "Shampoo",
+        "pronunciation": "Shamboo",
+        "arabic": "شامبو"
+      },
+      {
+        "english": "Antiseptic",
+        "pronunciation": "Mu-tah-her",
+        "arabic": "مطهّر"
+      },
+      {
+        "english": "Air freshener",
+        "pronunciation": "Mu-lat-tif jaww",
+        "arabic": "ملطف جو"
+      },
+      {
+        "english": "Comb",
+        "pronunciation": "Musht",
+        "arabic": "مشط"
+      },
+      {
+        "english": "Diaper",
+        "pronunciation": "Haffathah",
+        "arabic": "حفّاظة"
+      },
+      {
+        "english": "Tissues",
+        "pronunciation": "Manadeel / Kleenex",
+        "arabic": "مناديل / كلينكس"
+      },
+      {
+        "english": "Toothbrush",
+        "pronunciation": "Fur-shat as-naan",
+        "arabic": "فرشة أسنان"
+      },
+      {
+        "english": "Toothpaste",
+        "pronunciation": "Ma'-joon as-naan",
+        "arabic": "معجون أسنان"
+      },
+      {
+        "english": "Mirror",
+        "pronunciation": "Miraya",
+        "arabic": "مراية"
+      },
+      {
+        "english": "Soap",
+        "pronunciation": "Saboon",
+        "arabic": "صابون"
+      },
+      {
+        "english": "Bedpan",
+        "pronunciation": "Qasriyah",
+        "arabic": "قصرية"
+      },
+      {
+        "english": "Urinal / Urine Bottle",
+        "pronunciation": "Mab-wa-lah / Garurat bowl",
+        "arabic": "مبولة / قارورة بول"
+      },
+      {
+        "english": "Urine",
+        "pronunciation": "Bowl",
+        "arabic": "بول"
+      },
+      {
+        "english": "Stool",
+        "pronunciation": "Buraaz",
+        "arabic": "براز"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Clothing-Items",
+    "terms": [
+      {
+        "english": "Bandage",
+        "pronunciation": "Dimaad",
+        "arabic": "ضماد"
+      },
+      {
+        "english": "Belt",
+        "pronunciation": "Hizaam",
+        "arabic": "حزام"
+      },
+      {
+        "english": "Wound Dressing",
+        "pronunciation": "Ghi-yaar jurh",
+        "arabic": "غيار جرح"
+      },
+      {
+        "english": "Zipper",
+        "pronunciation": "Sah-haab",
+        "arabic": "سحاب"
+      },
+      {
+        "english": "Undo your belt",
+        "pronunciation": "Fuk hizaam-ak",
+        "arabic": "فك حزامك"
+      },
+      {
+        "english": "Button",
+        "pronunciation": "Zir",
+        "arabic": "زر"
+      },
+      {
+        "english": "Collar",
+        "pronunciation": "Yagah",
+        "arabic": "ياقة"
+      },
+      {
+        "english": "Cuff / Sleeve",
+        "pronunciation": "Kumm",
+        "arabic": "كُم"
+      },
+      {
+        "english": "Necktie",
+        "pronunciation": "Karfattah",
+        "arabic": "كرفتة"
+      },
+      {
+        "english": "Scarf",
+        "pronunciation": "Shaal",
+        "arabic": "شال"
+      },
+      {
+        "english": "Coat",
+        "pronunciation": "Balto / Mi'taf",
+        "arabic": "بالطو / معطف"
+      },
+      {
+        "english": "Jacket",
+        "pronunciation": "Jakayt",
+        "arabic": "جاكيت"
+      },
+      {
+        "english": "Washing",
+        "pronunciation": "Ghaseel",
+        "arabic": "غسيل"
+      },
+      {
+        "english": "Dirty",
+        "pronunciation": "Wisikh",
+        "arabic": "وسخ"
+      },
+      {
+        "english": "Clean",
+        "pronunciation": "Natheef",
+        "arabic": "نظيف"
+      },
+      {
+        "english": "Stains",
+        "pronunciation": "Buga'",
+        "arabic": "بقع"
+      },
+      {
+        "english": "Bed sheets",
+        "pronunciation": "Sharaashif",
+        "arabic": "شراشف"
+      },
+      {
+        "english": "Blanket",
+        "pronunciation": "Battaniyah",
+        "arabic": "بطانية"
+      },
+      {
+        "english": "Gown (Hospital)",
+        "pronunciation": "Thob al-mustashfa",
+        "arabic": "ثوب المستشفى"
+      },
+      {
+        "english": "Uniform",
+        "pronunciation": "Zayy muwahhad",
+        "arabic": "زي موحد"
+      },
+      {
+        "english": "White coat",
+        "pronunciation": "Balto abyad",
+        "arabic": "بالطو أبيض"
+      },
+      {
+        "english": "Cap / Hat",
+        "pronunciation": "Tagiyah",
+        "arabic": "طاقية"
+      },
+      {
+        "english": "Slippers",
+        "pronunciation": "Shibshib",
+        "arabic": "شبشب"
+      },
+      {
+        "english": "Shoes",
+        "pronunciation": "Jizmah / Hithaa'",
+        "arabic": "جزمة / حذاء"
+      },
+      {
+        "english": "Trousers / Pants",
+        "pronunciation": "Bantaloon",
+        "arabic": "بنطلون"
+      },
+      {
+        "english": "Towel",
+        "pronunciation": "Minshafah",
+        "arabic": "منشفة"
+      },
+      {
+        "english": "Skirt",
+        "pronunciation": "Tannoorah",
+        "arabic": "تنورة"
+      },
+      {
+        "english": "Dress (Woman's)",
+        "pronunciation": "Fustaan",
+        "arabic": "فستان"
+      },
+      {
+        "english": "Underwear",
+        "pronunciation": "Malabis dakhiliyah",
+        "arabic": "ملابس داخلية"
+      },
+      {
+        "english": "Shirt",
+        "pronunciation": "Gamees",
+        "arabic": "قميص"
+      },
+      {
+        "english": "Vest",
+        "pronunciation": "Sudayriyah",
+        "arabic": "صدرية"
+      },
+      {
+        "english": "Pillow",
+        "pronunciation": "Mikhaddah",
+        "arabic": "مخدة"
+      },
+      {
+        "english": "Pillowcase",
+        "pronunciation": "Ghi-ta mikhaddah",
+        "arabic": "غطاء مخدة"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Hospital-Medical Terms",
+    "terms": [
+      {
+        "english": "Admission",
+        "pronunciation": "Tanweem",
+        "arabic": "تنويم"
+      },
+      {
+        "english": "Registration",
+        "pronunciation": "Tasjeel",
+        "arabic": "تسجيل"
+      },
+      {
+        "english": "Patient Escort",
+        "pronunciation": "Murafiq mareedh",
+        "arabic": "مرافق مريض"
+      },
+      {
+        "english": "Patient",
+        "pronunciation": "Mareedh",
+        "arabic": "مريض"
+      },
+      {
+        "english": "Physical Therapy",
+        "pronunciation": "Ilaaj tabee'i",
+        "arabic": "علاج طبيعي"
+      },
+      {
+        "english": "Speech Therapy",
+        "pronunciation": "Ilaaj al-nutoq / 'Ilaaj takhatub",
+        "arabic": "علاج النطق / علاج تخاطب"
+      },
+      {
+        "english": "Occupational Therapy",
+        "pronunciation": "Ilaaj watheefi",
+        "arabic": "علاج وظيفي"
+      },
+      {
+        "english": "EEG (Brain Scan)",
+        "pronunciation": "Takhteet dimagh",
+        "arabic": "تخطيط دماغ"
+      },
+      {
+        "english": "EKG/ECG (Heart Scan)",
+        "pronunciation": "Takhteet galb",
+        "arabic": "تخطيط قلب"
+      },
+      {
+        "english": "Social Services",
+        "pronunciation": "Al-khadamaat al-ijtima'iyah",
+        "arabic": "الخدمات الاجتماعية"
+      },
+      {
+        "english": "VIP Clinic",
+        "pronunciation": "Iyadat al-shakhsiyat",
+        "arabic": "عيادات الشخصيات"
+      },
+      {
+        "english": "Pediatrics Dept.",
+        "pronunciation": "Qism al-atfaal",
+        "arabic": "قسم الأطفال"
+      },
+      {
+        "english": "Wheelchair",
+        "pronunciation": "Kursi mutaharrik",
+        "arabic": "كرسي متحرك"
+      },
+      {
+        "english": "Stretcher",
+        "pronunciation": "Naqqalah",
+        "arabic": "نقّالة"
+      },
+      {
+        "english": "Lobby / Hall",
+        "pronunciation": "Salah",
+        "arabic": "صالة"
+      },
+      {
+        "english": "Housekeeping",
+        "pronunciation": "Al-nathafah",
+        "arabic": "النظافة"
+      },
+      {
+        "english": "Medical Records",
+        "pronunciation": "Al-sijillat al-tibbiyah",
+        "arabic": "السجلات الطبية"
+      },
+      {
+        "english": "Medical File / Chart",
+        "pronunciation": "Al-malaff al-tibbi",
+        "arabic": "الملف الطبي"
+      },
+      {
+        "english": "Medical Card",
+        "pronunciation": "Al-bitaqah al-tibbiyah",
+        "arabic": "البطاقة الطبية"
+      },
+      {
+        "english": "Specialist",
+        "pronunciation": "Akhisaa'i",
+        "arabic": "أخصائي"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Common Questions-Phrases",
+    "terms": [
+      {
+        "english": "I need to check your vital signs",
+        "pronunciation": "Law samaht, ba-gees 'alamat-ak",
+        "arabic": "لو سمحت، بقيس علاماتك الحيوية"
+      },
+      {
+        "english": "- Temperature",
+        "pronunciation": "Hararah",
+        "arabic": "حرارة"
+      },
+      {
+        "english": "- Blood Pressure",
+        "pronunciation": "Dhaght al-dam",
+        "arabic": "ضغط الدم"
+      },
+      {
+        "english": "- Pulse",
+        "pronunciation": "Nabdh",
+        "arabic": "نبض"
+      },
+      {
+        "english": "- Respiratory Rate",
+        "pronunciation": "Mu'addal al-tanaffus",
+        "arabic": "معدل التنفس"
+      },
+      {
+        "english": "- Oxygen Saturation",
+        "pronunciation": "Nisbat al-oksijeen",
+        "arabic": "نسبة الأكسجين"
+      },
+      {
+        "english": "You have a fever, your temp is 38",
+        "pronunciation": "Feek hararah, darajtek 38",
+        "arabic": "فيك حرارة، درجتك 38"
+      },
+      {
+        "english": "Your blood pressure is 140/80",
+        "pronunciation": "Dhaghtak 140 'ala 80",
+        "arabic": "ضغطك 140 على 80"
+      },
+      {
+        "english": "Can I weigh you?",
+        "pronunciation": "Mumkin awzinak?",
+        "arabic": "ممكن أوزنك؟"
+      },
+      {
+        "english": "Your weight is 60kg",
+        "pronunciation": "Waznak 60 kilo",
+        "arabic": "وزنك 60 كيلو"
+      },
+      {
+        "english": "Can I measure your height?",
+        "pronunciation": "Mumkin agees toolak?",
+        "arabic": "ممكن أقيس طولك؟"
+      },
+      {
+        "english": "Your height is 171cm",
+        "pronunciation": "Toolak 171 santi",
+        "arabic": "طولك 171 سانتي"
+      },
+      {
+        "english": "Do you have any allergies?",
+        "pronunciation": "Indak hasasiyah min shay?",
+        "arabic": "عندك حساسية من شي؟"
+      },
+      {
+        "english": "I’m allergic to shrimp and penicillin",
+        "pronunciation": "Indi hasasiyah min al-rubyān w-al-penicillin",
+        "arabic": "عندي حساسية من الروبيان والبنسلين"
+      },
+      {
+        "english": "Do you have chronic diseases?",
+        "pronunciation": "Indak amradh muzminah?",
+        "arabic": "عندك أمراض مزمنة؟"
+      },
+      {
+        "english": "Yes, I have diabetes and high BP",
+        "pronunciation": "Aywah, 'indi sukkar wa dhaght",
+        "arabic": "أيوه، عندي سكر وضغط"
+      },
+      {
+        "english": "Did you bring your medication?",
+        "pronunciation": "Jibt adwiyatak ma'ak?",
+        "arabic": "جبت أدويتك معك؟"
+      },
+      {
+        "english": "Have you had surgery before?",
+        "pronunciation": "Sawwayt 'amaliyat min gabul?",
+        "arabic": "سويت عمليات من قبل؟"
+      },
+      {
+        "english": "Do you work?",
+        "pronunciation": "Tishtaghil?",
+        "arabic": "تشتغل؟"
+      },
+      {
+        "english": "Where do you live?",
+        "pronunciation": "Wayn saakin?",
+        "arabic": "وين ساكن؟"
+      },
+      {
+        "english": "Are you pregnant? (To a female)",
+        "pronunciation": "Hal inti haamil?",
+        "arabic": "هل إنتِ حامل؟"
+      },
+      {
+        "english": "How many children do you have?",
+        "pronunciation": "Kam 'indak atfaal?",
+        "arabic": "كم عندك أطفال؟"
+      },
+      {
+        "english": "Can I examine you?",
+        "pronunciation": "Mumkin afhasak?",
+        "arabic": "ممكن أفحصك؟"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Commands- Directions",
+    "terms": [
+      {
+        "english": "Walk",
+        "pronunciation": "Imshi",
+        "arabic": "إمشِ"
+      },
+      {
+        "english": "Sleep",
+        "pronunciation": "Naam",
+        "arabic": "نَم"
+      },
+      {
+        "english": "Relax",
+        "pronunciation": "Istarkhi",
+        "arabic": "إسترخِ"
+      },
+      {
+        "english": "Chair",
+        "pronunciation": "Kursi",
+        "arabic": "كرسي"
+      },
+      {
+        "english": "Bed",
+        "pronunciation": "Sareer",
+        "arabic": "سرير"
+      },
+      {
+        "english": "You must stay in bed",
+        "pronunciation": "Lazim tibga fil-sareer",
+        "arabic": "لازم تبقى في السرير"
+      },
+      {
+        "english": "Close",
+        "pronunciation": "Sakker / Gaffil",
+        "arabic": "سكّر / قفّل"
+      },
+      {
+        "english": "Don't move",
+        "pronunciation": "La tit-harrak",
+        "arabic": "لا تتحرك"
+      },
+      {
+        "english": "Up",
+        "pronunciation": "Fog",
+        "arabic": "فوق"
+      },
+      {
+        "english": "Down",
+        "pronunciation": "Taht",
+        "arabic": "تحت"
+      },
+      {
+        "english": "Continue",
+        "pronunciation": "Istamirr",
+        "arabic": "إستمر"
+      },
+      {
+        "english": "Turn",
+        "pronunciation": "Liff / Dur",
+        "arabic": "لِف / دُر"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Greetings-Courtesies",
+    "terms": [
+      {
+        "english": "English",
+        "pronunciation": "Arabic Pronunciation (Saudi Dialect)",
+        "arabic": "Arabic"
+      },
+      {
+        "english": "Peace be upon you",
+        "pronunciation": "Assalamu 'alaykum",
+        "arabic": "السلام عليكم"
+      },
+      {
+        "english": "And upon you peace",
+        "pronunciation": "Wa 'alaykum as-salam",
+        "arabic": "وعليكم السلام"
+      },
+      {
+        "english": "Hello",
+        "pronunciation": "Marhaba",
+        "arabic": "مرحبا"
+      },
+      {
+        "english": "Welcome",
+        "pronunciation": "Ahlan wa sahlan",
+        "arabic": "أهلاً وسهلاً"
+      },
+      {
+        "english": "How are you? (to a male)",
+        "pronunciation": "Kaif halak? / Shlonak?",
+        "arabic": "كيف حالك؟ / شلونك؟"
+      },
+      {
+        "english": "How are you? (to a female)",
+        "pronunciation": "Kaif halik? / Shlonik?",
+        "arabic": "كيف حالك؟ / شلونك؟"
+      },
+      {
+        "english": "Praise be to God (Response)",
+        "pronunciation": "Al-hamdulillah",
+        "arabic": "الحمد لله"
+      },
+      {
+        "english": "Good morning",
+        "pronunciation": "Sabah al-khair",
+        "arabic": "صباح الخير"
+      },
+      {
+        "english": "(Response)",
+        "pronunciation": "Sabah an-noor",
+        "arabic": "صباح النور"
+      },
+      {
+        "english": "Good evening",
+        "pronunciation": "Masa' al-khair",
+        "arabic": "مساء الخير"
+      },
+      {
+        "english": "(Response)",
+        "pronunciation": "Masa' an-noor",
+        "arabic": "مساء النور"
+      },
+      {
+        "english": "Good night (to a male)",
+        "pronunciation": "Tisbah 'ala khair",
+        "arabic": "تصبح على خير"
+      },
+      {
+        "english": "(Response to a male)",
+        "pronunciation": "Winta min ahloh",
+        "arabic": "وإنت من أهله"
+      },
+      {
+        "english": "Good night (to a female)",
+        "pronunciation": "Tisbaheen 'ala khair",
+        "arabic": "تصبحين على خير"
+      },
+      {
+        "english": "(Response to a female)",
+        "pronunciation": "Winti min ahloh",
+        "arabic": "وإنتِ من أهله"
+      },
+      {
+        "english": "Thanks",
+        "pronunciation": "Shukran",
+        "arabic": "شكراً"
+      },
+      {
+        "english": "You're welcome / Don't mention it",
+        "pronunciation": "'Afwan",
+        "arabic": "عفواً"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Common Phrases-Questions",
+    "terms": [
+      {
+        "english": "I’m fine",
+        "pronunciation": "Ana bikhair / Ana tayyib",
+        "arabic": "أنا بخير / أنا طيب"
+      },
+      {
+        "english": "I’m not well",
+        "pronunciation": "Ana mu bikhair / Ta'ban",
+        "arabic": "أنا مو بخير / تعبان"
+      },
+      {
+        "english": "I’m sorry (male speaking)",
+        "pronunciation": "Ana aasif",
+        "arabic": "أنا آسف"
+      },
+      {
+        "english": "I’m sorry (female speaking)",
+        "pronunciation": "Ana aasifah",
+        "arabic": "أنا آسفة"
+      },
+      {
+        "english": "What did you say? (to a male)",
+        "pronunciation": "Aish gult? / Shgult?",
+        "arabic": "إيش قلت؟ / شقلت؟"
+      },
+      {
+        "english": "What did you say? (to a female)",
+        "pronunciation": "Aish gulti? / Shgulti?",
+        "arabic": "إيش قلتي؟ / شقلتي؟"
+      },
+      {
+        "english": "Please repeat that",
+        "pronunciation": "Mumkin t'eed min fadlak/fadlik",
+        "arabic": "ممكن تعيد من فضلك/فضلكِ"
+      },
+      {
+        "english": "Did you understand? (to a male)",
+        "pronunciation": "Fihimt?",
+        "arabic": "فهمت؟"
+      },
+      {
+        "english": "Did you understand? (to a female)",
+        "pronunciation": "Fihimti?",
+        "arabic": "فهمتِ؟"
+      },
+      {
+        "english": "Yes, I understood",
+        "pronunciation": "Aywah, fihimt",
+        "arabic": "أيوه, فهمت"
+      },
+      {
+        "english": "No, I didn’t understand",
+        "pronunciation": "La, ma fihimt",
+        "arabic": "لا, ما فهمت"
+      },
+      {
+        "english": "What’s your name please? (to a male)",
+        "pronunciation": "Aish ismak, law samaht?",
+        "arabic": "إيش اسمك، لو سمحت؟"
+      },
+      {
+        "english": "What’s your name please? (to a female)",
+        "pronunciation": "Aish ismik, law samahti?",
+        "arabic": "إيش اسمكِ، لو سمحتي؟"
+      },
+      {
+        "english": "My name is Aisha",
+        "pronunciation": "Ismi Aisha",
+        "arabic": "اسمي عائشة"
+      },
+      {
+        "english": "Where are you from? (to a male)",
+        "pronunciation": "Inta min wayn?",
+        "arabic": "إنت من وين؟"
+      },
+      {
+        "english": "Where are you from? (to a female)",
+        "pronunciation": "Inti min wayn?",
+        "arabic": "إنتِ من وين؟"
+      },
+      {
+        "english": "I am from Jeddah",
+        "pronunciation": "Ana min Jeddah",
+        "arabic": "أنا من جدة"
+      },
+      {
+        "english": "I’m your nurse for the shift",
+        "pronunciation": "Ana mumarrid(at)ak al-yawm",
+        "arabic": "أنا ممرضك/ممرضتك اليوم"
+      },
+      {
+        "english": "Do you need anything?",
+        "pronunciation": "Tih-taj shay?",
+        "arabic": "تحتاج شي؟"
+      },
+      {
+        "english": "You are welcome",
+        "pronunciation": "Al-'afw",
+        "arabic": "العفو"
+      },
+      {
+        "english": "This is my friend",
+        "pronunciation": "Hadha sadeeqi",
+        "arabic": "هذا صديقي"
+      },
+      {
+        "english": "Who is this?",
+        "pronunciation": "Meen hadha?",
+        "arabic": "مين هذا؟"
+      },
+      {
+        "english": "Excuse me (to a male)",
+        "pronunciation": "Law samaht",
+        "arabic": "لو سمحت"
+      },
+      {
+        "english": "Excuse me (to a female)",
+        "pronunciation": "Law samahti",
+        "arabic": "لو سمحتي"
+      },
+      {
+        "english": "You are excused / Go ahead",
+        "pronunciation": "Tafaddal / Masmooh",
+        "arabic": "تفضل / مسموح"
+      },
+      {
+        "english": "Good-bye",
+        "pronunciation": "Ma'as-salamah",
+        "arabic": "مع السلامة"
+      },
+      {
+        "english": "I’ll see you tomorrow",
+        "pronunciation": "Ashoofak bukra",
+        "arabic": "أشوفك بكرة"
+      },
+      {
+        "english": "If God wills / Hopefully",
+        "pronunciation": "In sha' Allah",
+        "arabic": "إن شاء الله"
+      },
+      {
+        "english": "Nice to meet you",
+        "pronunciation": "Tasharrafna",
+        "arabic": "تشرفنا"
+      },
+      {
+        "english": "Can I have coffee/tea?",
+        "pronunciation": "Mumkin gahwa/shahi?",
+        "arabic": "ممكن قهوة/شاي؟"
+      },
+      {
+        "english": "Sure, I will bring it in 30 mins",
+        "pronunciation": "Akeed, ajeebah ba'd nus sa'ah",
+        "arabic": "أكيد، أجيبه بعد نص ساعة"
+      },
+      {
+        "english": "Press the call bell for assistance",
+        "pronunciation": "Idh-ghat zirr al-jaras lil-musa'adah",
+        "arabic": "إضغط زر الجرس للمساعدة"
+      },
+      {
+        "english": "Where is the prayer direction?",
+        "pronunciation": "Wayn al-qiblah?",
+        "arabic": "وين القبلة؟"
+      },
+      {
+        "english": "Who is speaking?",
+        "pronunciation": "Meen yitkallam?",
+        "arabic": "مين يتكلم؟"
+      },
+      {
+        "english": "Who do you want to speak to?",
+        "pronunciation": "Meen تبغى takallim?",
+        "arabic": "مين تبغى تكلم؟"
+      },
+      {
+        "english": "Please wait a minute",
+        "pronunciation": "Intadhir daqeeqah min fadlak",
+        "arabic": "إنتظر دقيقة من فضلك"
+      },
+      {
+        "english": "Please call extension...",
+        "pronunciation": "Min fadlak ittisil 'ala tahwelah...",
+        "arabic": "من فضلك إتصل على تحويلة..."
+      },
+      {
+        "english": "Please call back later",
+        "pronunciation": "Min fadlak ittisil ba'dain",
+        "arabic": "من فضلك إتصل بعدين"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Family",
+    "terms": [
+      {
+        "english": "Wife",
+        "pronunciation": "Zawjah",
+        "arabic": "زوجة"
+      },
+      {
+        "english": "Sister",
+        "pronunciation": "Ukht",
+        "arabic": "أخت"
+      },
+      {
+        "english": "Brother",
+        "pronunciation": "Akh",
+        "arabic": "أخ"
+      },
+      {
+        "english": "Uncle (Father’s brother)",
+        "pronunciation": "'Amm",
+        "arabic": "عم"
+      },
+      {
+        "english": "Uncle (Mother’s brother)",
+        "pronunciation": "Khal",
+        "arabic": "خال"
+      },
+      {
+        "english": "Aunt (Father’s sister)",
+        "pronunciation": "'Ammah",
+        "arabic": "عمة"
+      },
+      {
+        "english": "Aunt (Mother’s sister)",
+        "pronunciation": "Khalah",
+        "arabic": "خالة"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Numbers",
+    "terms": [
+      {
+        "english": 10,
+        "pronunciation": "'Asharah",
+        "arabic": "عشرة"
+      },
+      {
+        "english": 11,
+        "pronunciation": "Ihda-'ash",
+        "arabic": "إحدى عشر"
+      },
+      {
+        "english": 12,
+        "pronunciation": "Ithna-'ash",
+        "arabic": "إثنى عشر"
+      },
+      {
+        "english": 13,
+        "pronunciation": "Thalathat-'ash",
+        "arabic": "ثلاثة عشر"
+      },
+      {
+        "english": 14,
+        "pronunciation": "Arba'at-'ash",
+        "arabic": "أربعة عشر"
+      },
+      {
+        "english": 15,
+        "pronunciation": "Khamstat-'ash",
+        "arabic": "خمسة عشر"
+      },
+      {
+        "english": 16,
+        "pronunciation": "Sittat-'ash",
+        "arabic": "ستة عشر"
+      },
+      {
+        "english": 17,
+        "pronunciation": "Saba'at-'ash",
+        "arabic": "سبعة عشر"
+      },
+      {
+        "english": 18,
+        "pronunciation": "Thamaniyat-'ash",
+        "arabic": "ثمانية عشر"
+      },
+      {
+        "english": 19,
+        "pronunciation": "Tis'at-'ash",
+        "arabic": "تسعة عشر"
+      },
+      {
+        "english": 20,
+        "pronunciation": "'Ishreen",
+        "arabic": "عشرين"
+      },
+      {
+        "english": 21,
+        "pronunciation": "Wahid wa 'ishreen",
+        "arabic": "واحد وعشرين"
+      },
+      {
+        "english": 30,
+        "pronunciation": "Thalatheen",
+        "arabic": "ثلاثين"
+      },
+      {
+        "english": 40,
+        "pronunciation": "Arba'een",
+        "arabic": "أربعين"
+      },
+      {
+        "english": 50,
+        "pronunciation": "Khamseen",
+        "arabic": "خمسين"
+      },
+      {
+        "english": 60,
+        "pronunciation": "Sitteen",
+        "arabic": "ستين"
+      },
+      {
+        "english": 70,
+        "pronunciation": "Sab'een",
+        "arabic": "سبعين"
+      },
+      {
+        "english": 80,
+        "pronunciation": "Thamaneen",
+        "arabic": "ثمانين"
+      },
+      {
+        "english": 90,
+        "pronunciation": "Tis'een",
+        "arabic": "تسعين"
+      },
+      {
+        "english": 100,
+        "pronunciation": "Miyyah",
+        "arabic": "مئة"
+      },
+      {
+        "english": 1000,
+        "pronunciation": "Alf",
+        "arabic": "ألف"
+      },
+      {
+        "english": 1000000,
+        "pronunciation": "Milyon",
+        "arabic": "مليون"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Days-Week-Time",
+    "terms": [
+      {
+        "english": "Friday",
+        "pronunciation": "Al-Jumu'ah",
+        "arabic": "الجمعة"
+      },
+      {
+        "english": "Saturday",
+        "pronunciation": "As-Sabt",
+        "arabic": "السبت"
+      },
+      {
+        "english": "Sunday",
+        "pronunciation": "Al-Ahad",
+        "arabic": "الأحد"
+      },
+      {
+        "english": "Monday",
+        "pronunciation": "Al-Ithnayn",
+        "arabic": "الإثنين"
+      },
+      {
+        "english": "Tuesday",
+        "pronunciation": "Ath-Thulatha'",
+        "arabic": "الثلاثاء"
+      },
+      {
+        "english": "Wednesday",
+        "pronunciation": "Al-Arbi'a'",
+        "arabic": "الأربعاء"
+      },
+      {
+        "english": "Thursday",
+        "pronunciation": "Al-Khamees",
+        "arabic": "الخميس"
+      },
+      {
+        "english": "Tomorrow",
+        "pronunciation": "Bukra",
+        "arabic": "بكرة"
+      },
+      {
+        "english": "Yesterday",
+        "pronunciation": "Ams",
+        "arabic": "أمس"
+      },
+      {
+        "english": "Today",
+        "pronunciation": "Al-yawm",
+        "arabic": "اليوم"
+      },
+      {
+        "english": "Day after tomorrow",
+        "pronunciation": "Ba'd bukra",
+        "arabic": "بعد بكرة"
+      },
+      {
+        "english": "One week",
+        "pronunciation": "Usboo' wahid",
+        "arabic": "أسبوع واحد"
+      },
+      {
+        "english": "Two weeks",
+        "pronunciation": "Usboo'ayn",
+        "arabic": "أسبوعين"
+      },
+      {
+        "english": "Day",
+        "pronunciation": "Yawm",
+        "arabic": "يوم"
+      },
+      {
+        "english": "Everyday",
+        "pronunciation": "Kul yawm",
+        "arabic": "كل يوم"
+      },
+      {
+        "english": "Every 3 days",
+        "pronunciation": "Kul thalathat ayyam",
+        "arabic": "كل ثلاثة أيام"
+      },
+      {
+        "english": "Week",
+        "pronunciation": "Usboo'",
+        "arabic": "أسبوع"
+      },
+      {
+        "english": "Once every 2 weeks",
+        "pronunciation": "Marrah kul usboo'ayn",
+        "arabic": "مرة كل أسبوعين"
+      },
+      {
+        "english": "Month",
+        "pronunciation": "Shahr",
+        "arabic": "شهر"
+      },
+      {
+        "english": "Year",
+        "pronunciation": "Sanah",
+        "arabic": "سنة"
+      },
+      {
+        "english": "When is the discharge date?",
+        "pronunciation": "Meta maw'id al-khurooj?",
+        "arabic": "متى موعد الخروج؟"
+      },
+      {
+        "english": "Hour",
+        "pronunciation": "Sa'ah",
+        "arabic": "ساعة"
+      },
+      {
+        "english": "Minute",
+        "pronunciation": "Daqeeqah",
+        "arabic": "دقيقة"
+      },
+      {
+        "english": "Second",
+        "pronunciation": "Thaniyah",
+        "arabic": "ثانية"
+      },
+      {
+        "english": "3 o'clock",
+        "pronunciation": "As-sa'ah thalatha",
+        "arabic": "الساعة ثلاثة"
+      },
+      {
+        "english": 0.13194444444444445,
+        "pronunciation": "Thalatha wa 'ashar daqayiq",
+        "arabic": "ثلاثة وعشر دقايق"
+      },
+      {
+        "english": "3:20 (Third of an hour)",
+        "pronunciation": "Thalatha wa thulth",
+        "arabic": "ثلاثة وثلث"
+      },
+      {
+        "english": "3:30 (Half past three)",
+        "pronunciation": "Thalatha wa nus",
+        "arabic": "ثلاثة ونص"
+      },
+      {
+        "english": "3:40 (20 to 4)",
+        "pronunciation": "Arba'ah illa thulth",
+        "arabic": "أربعة إلا ثلث"
+      },
+      {
+        "english": "4:50 (10 to 5)",
+        "pronunciation": "Khamsah illa 'asharah",
+        "arabic": "خمسة إلا عشرة"
+      },
+      {
+        "english": "Dawn",
+        "pronunciation": "Fajr",
+        "arabic": "فجر"
+      },
+      {
+        "english": "Morning",
+        "pronunciation": "Sabah",
+        "arabic": "صباح"
+      },
+      {
+        "english": "Noon",
+        "pronunciation": "Dhuhur",
+        "arabic": "ظهر"
+      },
+      {
+        "english": "Afternoon",
+        "pronunciation": "Ba'd adh-dhuhur / 'Asr",
+        "arabic": "بعد الظهر / عصر"
+      },
+      {
+        "english": "Sunset",
+        "pronunciation": "Maghrib",
+        "arabic": "مغرب"
+      },
+      {
+        "english": "Evening",
+        "pronunciation": "Masa'",
+        "arabic": "مساء"
+      },
+      {
+        "english": "Night",
+        "pronunciation": "Layl",
+        "arabic": "ليل"
+      },
+      {
+        "english": "You must fast from midnight",
+        "pronunciation": "Lazim tsoom min nuss al-layl",
+        "arabic": "لازم تصوم من نص الليل"
+      },
+      {
+        "english": "5 minutes",
+        "pronunciation": "Khams daqayiq",
+        "arabic": "خمس دقايق"
+      },
+      {
+        "english": "15 minutes",
+        "pronunciation": "Rubu' sa'ah",
+        "arabic": "ربع ساعة"
+      },
+      {
+        "english": "I will be back in 20 minutes",
+        "pronunciation": "Arja' lak ba'd 'ishreen daqeeqah",
+        "arabic": "أرجع لك بعد عشرين دقيقة"
+      },
+      {
+        "english": "Half an hour",
+        "pronunciation": "Nuss sa'ah",
+        "arabic": "نص ساعة"
+      },
+      {
+        "english": "The doctor may arrive in an hour",
+        "pronunciation": "Ad-doctor mumkin yeeji ba'd sa'ah",
+        "arabic": "الدكتور ممكن يجي بعد ساعة"
+      },
+      {
+        "english": "Now",
+        "pronunciation": "Al-heen",
+        "arabic": "الحين"
+      },
+      {
+        "english": "I am coming now",
+        "pronunciation": "Ana jay al-heen",
+        "arabic": "أنا جاي الحين"
+      },
+      {
+        "english": "Later",
+        "pronunciation": "Ba'dain",
+        "arabic": "بعدين"
+      },
+      {
+        "english": "I will see you later",
+        "pronunciation": "Ashoofak ba'dain",
+        "arabic": "أشوفك بعدين"
+      },
+      {
+        "english": "Early",
+        "pronunciation": "Badri",
+        "arabic": "بدري"
+      },
+      {
+        "english": "Please come early",
+        "pronunciation": "Min fadlak ta'al badri",
+        "arabic": "من فضلك تعال بدري"
+      },
+      {
+        "english": "Late",
+        "pronunciation": "Mit'akh-khir",
+        "arabic": "متأخر"
+      },
+      {
+        "english": "Don’t be late",
+        "pronunciation": "La tit'akh-khar",
+        "arabic": "لا تتأخر"
+      },
+      {
+        "english": "Sometimes",
+        "pronunciation": "Ah-yanan",
+        "arabic": "أحياناً"
+      },
+      {
+        "english": "Always",
+        "pronunciation": "Da'iman",
+        "arabic": "دائماً"
+      },
+      {
+        "english": "The patient always responds well",
+        "pronunciation": "Al-mareedh da'iman yistajeeb lil-'ilaaj",
+        "arabic": "المريض دائماً يستجيب للعلاج"
+      },
+      {
+        "english": "Never",
+        "pronunciation": "Abadan",
+        "arabic": "أبداً"
+      },
+      {
+        "english": "I have never seen this before",
+        "pronunciation": "'Umri ma shuft kذا",
+        "arabic": "عمري ما شفت كذا"
+      },
+      {
+        "english": "Day before yesterday",
+        "pronunciation": "Gabil ams",
+        "arabic": "قبل أمس"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Directions",
+    "terms": [
+      {
+        "english": "Right",
+        "pronunciation": "Yameen",
+        "arabic": "يمين"
+      },
+      {
+        "english": "Left",
+        "pronunciation": "Yasar",
+        "arabic": "يسار"
+      },
+      {
+        "english": "Straight-ahead",
+        "pronunciation": "'Ala tool / Seeda",
+        "arabic": "على طول / سيدة"
+      },
+      {
+        "english": "Beside / next to",
+        "pronunciation": "Janb",
+        "arabic": "جنب"
+      },
+      {
+        "english": "Behind / at the back",
+        "pronunciation": "Wara / Khalf",
+        "arabic": "ورا / خلف"
+      },
+      {
+        "english": "In front of",
+        "pronunciation": "Giddam",
+        "arabic": "قدام"
+      },
+      {
+        "english": "Opposite",
+        "pronunciation": "Mugaabil",
+        "arabic": "مقابل"
+      },
+      {
+        "english": "Go (command, to male)",
+        "pronunciation": "Rooh",
+        "arabic": "روح"
+      },
+      {
+        "english": "Go (command, to female)",
+        "pronunciation": "Roohi",
+        "arabic": "روحي"
+      },
+      {
+        "english": "Turn (command, to male)",
+        "pronunciation": "Liff",
+        "arabic": "لِف"
+      },
+      {
+        "english": "Turn (command, to female)",
+        "pronunciation": "Liffi",
+        "arabic": "لِفّي"
+      },
+      {
+        "english": "Here",
+        "pronunciation": "Hina",
+        "arabic": "هنا"
+      },
+      {
+        "english": "There",
+        "pronunciation": "Hinak",
+        "arabic": "هناك"
+      },
+      {
+        "english": "Look at this sign",
+        "pronunciation": "Shoof hadhi al-lawhah",
+        "arabic": "شوف هذي اللوحة"
+      },
+      {
+        "english": "Where?",
+        "pronunciation": "Wayn? / Fain?",
+        "arabic": "وين؟ / فين؟"
+      },
+      {
+        "english": "Can I see the paper?",
+        "pronunciation": "Mumkin ashoof al-waraqah?",
+        "arabic": "ممكن أشوف الورقة؟"
+      },
+      {
+        "english": "How do I get to the gym?",
+        "pronunciation": "Kaif arooh an-nadi ar-riyadhi?",
+        "arabic": "كيف أروح النادي الرياضي؟"
+      },
+      {
+        "english": "Where is the nearest supermarket?",
+        "pronunciation": "Wayn agrab supermarkit?",
+        "arabic": "وين أقرب سوبرماركت؟"
+      },
+      {
+        "english": "How do I get to the office?",
+        "pronunciation": "Kaif arooh lil-maktab?",
+        "arabic": "كيف أروح للمكتب؟"
+      },
+      {
+        "english": "What's the best way to get to your house?",
+        "pronunciation": "Aish ahsan tareeq li-baytak?",
+        "arabic": "إيش أحسن طريق لبيتك؟"
+      },
+      {
+        "english": "Go straight until you see the hospital, then turn left.",
+        "pronunciation": "Rooh seeda لين tishoof al-mustashfa, ba'dain liff yasar",
+        "arabic": "روح سيدة لين تشوف المستشفى، بعدين لف يسار"
+      },
+      {
+        "english": "Turn left when you see a roundabout.",
+        "pronunciation": "Liff yasar lamma tishoof ad-dawwar",
+        "arabic": "لف يسار لما تشوف الدوار"
+      },
+      {
+        "english": "Turn right at the end of the road, my house is number 67",
+        "pronunciation": "Fi nihayat ash-shari', liff yameen, bayti raqam 67",
+        "arabic": "في نهاية الشارع، لف يمين، بيتي رقم 67"
+      },
+      {
+        "english": "Take the third road on the right",
+        "pronunciation": "Khudh ath-thalith shari' 'alal-yameen",
+        "arabic": "خذ ثالث شارع على اليمين"
+      },
+      {
+        "english": "Take the second road on the left",
+        "pronunciation": "Khudh ath-thani shari' 'alal-yasar",
+        "arabic": "خذ ثاني شارع على اليسار"
+      },
+      {
+        "english": "Go to the back",
+        "pronunciation": "Irja' wara",
+        "arabic": "إرجع ورا"
+      },
+      {
+        "english": "Elevator",
+        "pronunciation": "Mis'ad / Asanseer",
+        "arabic": "مصعد / أسانسير"
+      },
+      {
+        "english": "Traffic light",
+        "pronunciation": "Isharah",
+        "arabic": "إشارة"
+      },
+      {
+        "english": "Traffic",
+        "pronunciation": "Zahmat moroor",
+        "arabic": "زحمة مرور"
+      },
+      {
+        "english": "Street",
+        "pronunciation": "Shari'",
+        "arabic": "شارع"
+      },
+      {
+        "english": "Bridge",
+        "pronunciation": "Kubri",
+        "arabic": "كوبري"
+      },
+      {
+        "english": "Come here",
+        "pronunciation": "Ta'al hina",
+        "arabic": "تعال هنا"
+      },
+      {
+        "english": "Stop",
+        "pronunciation": "Waggif",
+        "arabic": "وقّف"
+      },
+      {
+        "english": "Wait / Stay",
+        "pronunciation": "Istanna",
+        "arabic": "إستنى"
+      },
+      {
+        "english": "Up / Down",
+        "pronunciation": "Foq / Taht",
+        "arabic": "فوق / تحت"
+      },
+      {
+        "english": "Stairs",
+        "pronunciation": "Daraj",
+        "arabic": "درج"
+      },
+      {
+        "english": "Cold",
+        "pronunciation": "Barid",
+        "arabic": "بارد"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Hospital Locations",
+    "terms": [
+      {
+        "english": "Clinic(s)",
+        "pronunciation": "'Iyadat",
+        "arabic": "عيادة / عيادات"
+      },
+      {
+        "english": "Ward / Wing",
+        "pronunciation": "Janah",
+        "arabic": "جناح"
+      },
+      {
+        "english": "Pharmacy",
+        "pronunciation": "Saydaliyah",
+        "arabic": "صيدلية"
+      },
+      {
+        "english": "Laboratory",
+        "pronunciation": "Mukhtabar",
+        "arabic": "مختبر"
+      },
+      {
+        "english": "X-ray Dept.",
+        "pronunciation": "Qism al-ashi''ah",
+        "arabic": "قسم الأشعة"
+      },
+      {
+        "english": "Ultrasound",
+        "pronunciation": "Ashi''ah sawtiyah",
+        "arabic": "أشعة صوتية"
+      },
+      {
+        "english": "Hospital",
+        "pronunciation": "Mustashfa",
+        "arabic": "مستشفى"
+      },
+      {
+        "english": "OR (Operating Room)",
+        "pronunciation": "Ghorfat al-'amaliyat",
+        "arabic": "غرفة العمليات"
+      },
+      {
+        "english": "Appointments",
+        "pronunciation": "Mawa'eed",
+        "arabic": "مواعيد"
+      },
+      {
+        "english": "Security",
+        "pronunciation": "Al-Amn",
+        "arabic": "الأمن"
+      },
+      {
+        "english": "Cafeteria",
+        "pronunciation": "Kafeteria / Mat'am",
+        "arabic": "كافيتيريا / مطعم"
+      },
+      {
+        "english": "Dental clinic",
+        "pronunciation": "'Iyadat al-asnan",
+        "arabic": "عيادة الأسنان"
+      },
+      {
+        "english": "ER (Emergency Room)",
+        "pronunciation": "At-Tawari'",
+        "arabic": "الطوارئ"
+      },
+      {
+        "english": "EHC (Employee Health Clinic)",
+        "pronunciation": "'Iyadat al-muwaththafeen",
+        "arabic": "عيادات الموظفين"
+      },
+      {
+        "english": "ICU (Intensive Care Unit)",
+        "pronunciation": "Al-'Inayah al-murakkazah",
+        "arabic": "العناية المركزة"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "category": "Miscellaneous Words-Phrases",
+    "terms": [
+      {
+        "english": "I think",
+        "pronunciation": "A'taqid / Adhunn",
+        "arabic": "أعتقد / أظن"
+      },
+      {
+        "english": "I hope",
+        "pronunciation": "Atmanna",
+        "arabic": "أتمنى"
+      },
+      {
+        "english": "I wish",
+        "pronunciation": "Arghab / Atmanna",
+        "arabic": "أرغب / أتمنى"
+      },
+      {
+        "english": "Are you sure?",
+        "pronunciation": "Muta'akkid?",
+        "arabic": "متأكد؟"
+      },
+      {
+        "english": "Necessary",
+        "pronunciation": "Dharoori",
+        "arabic": "ضروري"
+      },
+      {
+        "english": "Only",
+        "pronunciation": "Bas / Faqat",
+        "arabic": "بس / فقط"
+      },
+      {
+        "english": "Must",
+        "pronunciation": "Lazim",
+        "arabic": "لازم"
+      },
+      {
+        "english": "Are you frightened?",
+        "pronunciation": "Inta khayif?",
+        "arabic": "إنت خايف؟"
+      },
+      {
+        "english": "Nausea",
+        "pronunciation": "Ghathayan / Loya'an",
+        "arabic": "غثيان / لوعان"
+      },
+      {
+        "english": "It won't hurt",
+        "pronunciation": "Ma راح ya''wwir",
+        "arabic": "ما راح يعوّر"
+      },
+      {
+        "english": "Don’t cry",
+        "pronunciation": "La tibki",
+        "arabic": "لا تبكي"
+      },
+      {
+        "english": "Tell me (to a male)",
+        "pronunciation": "Gull-li",
+        "arabic": "قل لي"
+      },
+      {
+        "english": "Tell me (to a female)",
+        "pronunciation": "Gooli-li",
+        "arabic": "قولي لي"
+      },
+      {
+        "english": "Is someone there?",
+        "pronunciation": "Fee ahad hinak?",
+        "arabic": "في أحد هناك؟"
+      },
+      {
+        "english": "Do not forget",
+        "pronunciation": "La tinsa",
+        "arabic": "لا تنسى"
+      },
+      {
+        "english": "Is it understood?",
+        "pronunciation": "Mafhoom?",
+        "arabic": "مفهوم؟"
+      },
+      {
+        "english": "Is it possible?",
+        "pronunciation": "Mumkin?",
+        "arabic": "ممكن؟"
+      },
+      {
+        "english": "He",
+        "pronunciation": "Huwa",
+        "arabic": "هو"
+      },
+      {
+        "english": "She",
+        "pronunciation": "Hiya",
+        "arabic": "هي"
+      },
+      {
+        "english": "They",
+        "pronunciation": "Hum",
+        "arabic": "هم"
+      },
+      {
+        "english": "We",
+        "pronunciation": "Ihna / Nahnu",
+        "arabic": "إحنا / نحن"
+      },
+      {
+        "english": "Mine",
+        "pronunciation": "Haggi / Lee",
+        "arabic": "حقي / لي"
+      },
+      {
+        "english": "Yours (for a male)",
+        "pronunciation": "Haggak / Lak",
+        "arabic": "حقك / لك"
+      },
+      {
+        "english": "Yours (for a female)",
+        "pronunciation": "Haggik / Laki",
+        "arabic": "حقكِ / لكِ"
+      },
+      {
+        "english": "His",
+        "pronunciation": "Haggoh / Lah",
+        "arabic": "حقه / له"
+      },
+      {
+        "english": "Hers",
+        "pronunciation": "Haggaha / Laha",
+        "arabic": "حقها / لها"
+      },
+      {
+        "english": "Theirs",
+        "pronunciation": "Haggahum / Lahum",
+        "arabic": "حقهم / لهم"
+      },
+      {
+        "english": "Ours",
+        "pronunciation": "Haggina / Lana",
+        "arabic": "حقنا / لنا"
+      },
+      {
+        "english": "Why?",
+        "pronunciation": "Laish?",
+        "arabic": "ليش؟"
+      },
+      {
+        "english": "When?",
+        "pronunciation": "Meta?",
+        "arabic": "متى؟"
+      },
+      {
+        "english": "What?",
+        "pronunciation": "Aish? / Shinoo?",
+        "arabic": "إيش؟ / شنو؟"
+      },
+      {
+        "english": "How?",
+        "pronunciation": "Kaif?",
+        "arabic": "كيف؟"
+      },
+      {
+        "english": "How many/much?",
+        "pronunciation": "Kam?",
+        "arabic": "كم؟"
+      },
+      {
+        "english": "How much (price)?",
+        "pronunciation": "Bi-kam?",
+        "arabic": "بكم؟"
+      },
+      {
+        "english": "Who?",
+        "pronunciation": "Meen?",
+        "arabic": "مين؟"
+      },
+      {
+        "english": "What time is it?",
+        "pronunciation": "Kam as-sa'ah?",
+        "arabic": "كم الساعة؟"
+      },
+      {
+        "english": "Are you allergic to this?",
+        "pronunciation": "'Indak hasasiyah min hadha?",
+        "arabic": "عندك حساسية من هذا؟"
+      },
+      {
+        "english": "What do you want? (to a male)",
+        "pronunciation": "Aish tibgha?",
+        "arabic": "إيش تبغى؟"
+      },
+      {
+        "english": "What do you want? (to a female)",
+        "pronunciation": "Aish tibgheen?",
+        "arabic": "إيش تبغين؟"
+      }
+    ],
+    "image": ""
+  }
+]

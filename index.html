@@ -1,0 +1,55 @@
+<!-- In index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arabic Communications Learning</title>
+    <link rel="stylesheet" href="style.css"> <!-- This line was missing -->
+    <!-- Google Fonts for a nice, clean look -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Noto+Naskh+Arabic:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="app-container">
+        <!-- Left Sidebar for Topics -->
+        <aside class="sidebar">
+            <header class="sidebar-header">
+                <h2>Topics</h2>
+            </header>
+            <nav id="topics-nav" class="topics-nav"></nav>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <header class="main-header">
+                <h1>Arabic for Healthcare</h1>
+                <div class="search-container">
+                    <input type="text" id="search-input" placeholder="Search for a word...">
+                    <span class="clear-search" id="clear-search-btn">&times;</span>
+                </div>
+            </header>
+            
+            <section id="content-area" class="content-area">
+                <!-- Thematic background words -->
+                <div class="background-words">
+                    <span>ممرضة</span>
+                    <span>مستشفى</span>
+                    <span>طبيب</span>
+                    <span>علاج</span>
+                </div>
+                <!-- Welcome Message -->
+                <div class="welcome-card">
+                    <h2>Welcome, Nurse!</h2>
+                    <p>Select a topic from the left to start learning, or use the search bar to find a specific term.</p>
+                </div>
+                <!-- Word cards will be dynamically inserted here -->
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
