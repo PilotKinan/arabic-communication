@@ -263,19 +263,43 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // --- Text-to-Speech Feature ---
+    let speechVoices = [];
+
+    // Populates the voices array once they are loaded by the browser.
+    function populateVoiceList() {
+        if (typeof speechSynthesis === 'undefined') return;
+        speechVoices = speechSynthesis.getVoices();
+    }
+
+    populateVoiceList();
+    if (typeof speechSynthesis !== 'undefined' && speechSynthesis.onvoiceschanged !== undefined) {
+        speechSynthesis.onvoiceschanged = populateVoiceList;
+    }
+
     function speakText(text, lang) {
-        if ('speechSynthesis' in window) {
-            // Cancel any ongoing speech to prevent overlap
-            window.speechSynthesis.cancel();
-
-            const utterance = new SpeechSynthesisUtterance(text);
-            utterance.lang = lang; // e.g., 'ar-SA' for Saudi Arabic
-            utterance.rate = 0.9; // Slightly slower for clarity
-
-            window.speechSynthesis.speak(utterance);
-        } else {
+        if (!('speechSynthesis' in window)) {
             alert("Sorry, your browser does not support text-to-speech.");
+            return;
         }
+
+        window.speechSynthesis.cancel(); // Cancel any ongoing speech
+
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = lang; // e.g., 'ar-SA'
+        utterance.rate = 0.9; // Slightly slower for clarity
+
+        // Find the best available voice
+        let saudiVoice = speechVoices.find(voice => voice.lang === 'ar-SA');
+        let arabicVoice = speechVoices.find(voice => voice.lang.startsWith('ar-'));
+
+        if (saudiVoice) {
+            utterance.voice = saudiVoice;
+        } else if (arabicVoice) {
+            utterance.voice = arabicVoice;
+        }
+        // If no specific Arabic voice is found, the browser will use the lang property as a fallback.
+
+        window.speechSynthesis.speak(utterance);
     }
 
     // --- End of Text-to-Speech Feature ---
