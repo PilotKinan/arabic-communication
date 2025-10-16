@@ -270,8 +270,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (e.target.classList.contains('speak-icon')) {
             e.stopPropagation();
             // Get the Arabic text from the sibling span
-            const textToSpeak = e.target.previousElementSibling.textContent;
-            speakText(textToSpeak, 'ar-SA'); // 'ar-SA' for Saudi Arabia Arabic
+            const textToSpeak = e.target.previousElementSibling?.textContent;
+            const lang = e.target.dataset.lang; // 'ar-SA' or 'en-US'
+            if (textToSpeak && lang) {
+                speakText(textToSpeak, lang);
+            }
         }
     });
     // --- End of Event Delegation ---
@@ -304,11 +307,17 @@ document.addEventListener('DOMContentLoaded', () => {
         utterance.lang = lang; // e.g., 'ar-SA'
         utterance.rate = 0.9; // Slightly slower for clarity
 
-        // Find the best available voice, prioritizing Saudi Arabic.
-        let saudiVoice = speechVoices.find(voice => voice.lang === 'ar-SA');
-        let arabicVoice = speechVoices.find(voice => voice.lang.startsWith('ar-'));
+        // Find the best available voice based on the requested language.
+        let specificVoice = speechVoices.find(voice => voice.lang === lang);
+        let genericVoice = speechVoices.find(voice => voice.lang.startsWith(lang.split('-')[0]));
 
-        if (saudiVoice) {
+        // For Arabic, prioritize Saudi dialect
+        if (lang === 'ar-SA') {
+            let saudiVoice = speechVoices.find(voice => voice.lang === 'ar-SA');
+            let arabicVoice = speechVoices.find(voice => voice.lang.startsWith('ar-'));
+            if (saudiVoice) utterance.voice = saudiVoice;
+            else if (arabicVoice) utterance.voice = arabicVoice;
+        } else if (specificVoice) {
             utterance.voice = saudiVoice;
         } else if (arabicVoice) {
             utterance.voice = arabicVoice;
@@ -376,10 +385,13 @@ document.addEventListener('DOMContentLoaded', () => {
         let tableRows = categoryData.terms.map(term => `
             <tr>
                 <td>${term.english}</td>
-                <td>${term.pronunciation}</td>
+                <td class="pronunciation-term">
+                    <span>${term.pronunciation}</span>
+                    <span class="speak-icon" data-lang="en-US" title="Listen (Pronunciation)">&#128266;</span>
+                </td>
                 <td class="arabic-term">
                     <span>${term.arabic}</span>
-                    <span class="speak-icon" title="Listen">&#128266;</span>
+                    <span class="speak-icon" data-lang="ar-SA" title="Listen (Arabic)">&#128266;</span>
                 </td>
             </tr>
         `).join('');
@@ -426,10 +438,13 @@ document.addEventListener('DOMContentLoaded', () => {
             let tableRows = categoryData.terms.map(term => `
                 <tr>
                     <td>${term.english}</td>
-                    <td>${term.pronunciation}</td>
+                    <td class="pronunciation-term">
+                        <span>${term.pronunciation}</span>
+                        <span class="speak-icon" data-lang="en-US" title="Listen (Pronunciation)">&#128266;</span>
+                    </td>
                     <td class="arabic-term">
                         <span>${term.arabic}</span>
-                        <span class="speak-icon" title="Listen">&#128266;</span>
+                        <span class="speak-icon" data-lang="ar-SA" title="Listen (Arabic)">&#128266;</span>
                     </td>
                 </tr>
             `).join('');
@@ -515,10 +530,13 @@ document.addEventListener('DOMContentLoaded', () => {
             let tableRows = results.map(term => `
                 <tr>
                     <td>${term.english}</td>
-                    <td>${term.pronunciation}</td>
+                    <td class="pronunciation-term">
+                        <span>${term.pronunciation}</span>
+                        <span class="speak-icon" data-lang="en-US" title="Listen (Pronunciation)">&#128266;</span>
+                    </td>
                     <td class="arabic-term">
                         <span>${term.arabic}</span>
-                        <span class="speak-icon" title="Listen">&#128266;</span>
+                        <span class="speak-icon" data-lang="ar-SA" title="Listen (Arabic)">&#128266;</span>
                     </td>
                 </tr>
             `).join('');
