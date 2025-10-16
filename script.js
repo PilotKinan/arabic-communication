@@ -131,7 +131,14 @@ document.addEventListener('DOMContentLoaded', () => {
         fileInput.accept = ".xlsx, .xls";
         fileInput.style.display = 'none';
 
-        updateButton.addEventListener('click', () => fileInput.click());
+        updateButton.addEventListener('click', () => {
+            const password = prompt("Please enter the password to upload a new Excel file:");
+            if (password === "Upload@Excel") {
+                fileInput.click();
+            } else if (password !== null) {
+                alert("Incorrect password.");
+            }
+        });
         fileInput.addEventListener('change', handleFileUpdate);
 
         searchContainer.appendChild(updateButton);
