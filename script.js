@@ -101,7 +101,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Close sidebar when clicking outside of it on mobile
         document.addEventListener('click', (e) => {
-            if (window.innerWidth <= 768 && sidebar.classList.contains('open') && !sidebar.contains(e.target)) {
+            // Check if the click is outside the sidebar AND not on the hamburger menu itself
+            if (
+                window.innerWidth <= 768 &&
+                sidebar.classList.contains('open') &&
+                !sidebar.contains(e.target) && !hamburger.contains(e.target)
+            ) {
                 sidebar.classList.remove('open');
             }
         });
